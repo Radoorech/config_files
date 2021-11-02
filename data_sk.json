@@ -1,4 +1,5 @@
 {
-  "nova": {
-    "channel": "699"
+  "jednotka": {
+    "channel": "699",
+    "id": "409"
 }
