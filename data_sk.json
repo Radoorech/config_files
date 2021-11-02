@@ -1,6 +1,7 @@
 {
   "jednotka": {
     "channel": "637",
+    "check": "jednotka",
     "id": "4099"
   }    
 }
