@@ -870,17 +870,7 @@
     {
       "channel": {
         "channelKey": "Investigation Discovery",
-        "name": "ID",
-        "weight": 59,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
+        "name": "Discovery ID",
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/investigation-discovery.png"
@@ -891,39 +881,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/investigation-discovery.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "01r",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32038195,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Vražedné město: Charlotte (5)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Animal Planet HD",
         "name": "Animal Planet HD",
-        "weight": 60,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/animal-planet-hd.png"
@@ -934,39 +898,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/animal-planet-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "01s",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32034263,
-        "start": 1645194600000,
-        "end": 1645197900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Má pekelná kočka V (13)",
-        "availableTo": 1645799400000
       }
     },
     {
       "channel": {
         "channelKey": "CSHistory",
         "name": "CS History",
-        "weight": 61,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/cs-history.png"
@@ -977,39 +915,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/cs-history.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "01t",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32042308,
-        "start": 1645194000000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Přežila jsem kulturní revoluci",
-        "availableTo": 1645798800000
       }
     },
     {
       "channel": {
         "channelKey": "History",
         "name": "History",
-        "weight": 62,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/history.png"
@@ -1020,39 +932,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/history.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "01u",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32038153,
-        "start": 1645197300000,
-        "end": 1645200900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Hvězdy zastavárny XXII (3)",
-        "availableTo": 1645802100000
       }
     },
     {
       "channel": {
         "channelKey": "CrimeInvestigation",
-        "name": "Crime+Investigation",
-        "weight": 63,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
+        "name": "Crime+ Investigation",
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/crime-investigation.png"
@@ -1063,39 +949,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/crime-investigation.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "01v",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32034950,
-        "start": 1645197300000,
-        "end": 1645200600000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Vražda: Poslední hodiny II (4)",
-        "availableTo": 1645802100000
       }
     },
     {
       "channel": {
         "channelKey": "O2 Sport HD",
         "name": "O2TV Sport HD",
-        "weight": 70,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 3000,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/o2-sport-hd.png"
@@ -1106,39 +966,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/o2-sport-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "026",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039923,
-        "start": 1645196400000,
-        "end": 1645201800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "WTA500: Dubai Duty Free Tennis Championships (2. semifinále)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "O2 Fotbal HD",
         "name": "O2TV Fotbal HD",
-        "weight": 71,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 3000,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/o2-tv-fotbal.png"
@@ -1149,39 +983,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/o2-tv-fotbal.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "027",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039763,
-        "start": 1645192800000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "SK Sigma Olomouc-FK Mladá Boleslav (Streaming)",
-        "availableTo": 1645797600000
       }
     },
     {
       "channel": {
         "channelKey": "O2 Tenis HD",
         "name": "O2TV Tenis HD",
-        "weight": 72,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 3000,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/o2-tv-tenis.png"
@@ -1192,39 +1000,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/o2-tv-tenis.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "028",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039951,
-        "start": 1645196400000,
-        "end": 1645203600000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "WTA500: Dubai Duty Free Tennis Championships (2. semifinále)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "PremierSportHD",
         "name": "Premier Sport 1 HD",
-        "weight": 74,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/premier-sport.png"
@@ -1235,39 +1017,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/premier-sport.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02a",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040167,
-        "start": 1645197000000,
-        "end": 1645198800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Zostrihy 2. - 4. ligy",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "PremierSport2HD",
         "name": "Premier Sport 2 HD",
-        "weight": 75,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/premier-sport-2.png"
@@ -1278,39 +1034,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/premier-sport-2.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02b",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040149,
-        "start": 1645196400000,
-        "end": 1645207200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "UFC 271: Adesanya vs Whittaker",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "ČT sport HD",
-        "name": "ČT sport HD",
-        "weight": 76,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
+        "name": "ČT Sport HD",
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct-sport-hd.png"
@@ -1321,39 +1051,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct-sport-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02c",
-        "skWeight": 76,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035917,
-        "start": 1645189200000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Rusko - Švédsko",
-        "availableTo": 1645794000000
       }
     },
     {
       "channel": {
         "channelKey": "Nova Sport 1 HD",
         "name": "Nova Sport 1 HD",
-        "weight": 77,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nova-sport-1.png"
@@ -1364,39 +1068,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova-sport-1.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02d",
-        "skWeight": 95,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039691,
-        "start": 1645197600000,
-        "end": 1645198800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "V Poločase (21)",
-        "availableTo": 1645802400000
       }
     },
     {
       "channel": {
         "channelKey": "Nova Sport 2 HD",
         "name": "Nova Sport 2 HD",
-        "weight": 78,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nova-sport-2-hd.png"
@@ -1407,39 +1085,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova-sport-2-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02e",
-        "skWeight": 96,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039708,
-        "start": 1645196700000,
-        "end": 1645203300000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "ATP Tour 250: Qatar ExxonMobil Open",
-        "availableTo": 1645801500000
       }
     },
     {
       "channel": {
         "channelKey": "NovaSport3HD",
         "name": "Nova Sport 3 HD",
-        "weight": 79,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nova-sport-3.png"
@@ -1450,39 +1102,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova-sport-3.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02f",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039724,
-        "start": 1645194600000,
-        "end": 1645201500000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Red Bull Salzburg - Bayern Mnichov",
-        "availableTo": 1645799400000
       }
     },
     {
       "channel": {
         "channelKey": "NovaSport4HD",
         "name": "Nova Sport 4 HD",
-        "weight": 80,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nova-sport-4.png"
@@ -1493,39 +1119,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova-sport-4.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02g",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039741,
-        "start": 1645196400000,
-        "end": 1645202700000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "RB Lipsko - 1. FC Köln",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Eurosport 1 HD",
         "name": "Eurosport 1 HD",
-        "weight": 81,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/eurosport-hd.png"
@@ -1536,39 +1136,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/eurosport-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02h",
-        "skWeight": 93,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32037322,
-        "start": 1645191900000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Lední hokej ZOH – semifinále mužů",
-        "availableTo": 1645796700000
       }
     },
     {
       "channel": {
         "channelKey": "Eurosport 2 HD",
         "name": "Eurosport 2 HD",
-        "weight": 82,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/eurosport2-hd.png"
@@ -1579,39 +1153,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/eurosport2-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02i",
-        "skWeight": 94,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32037249,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Cyklistika Okolo Andalusie – 3. etapa",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Sport5",
         "name": "Sport5",
-        "weight": 84,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/sport5.png"
@@ -1622,39 +1170,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/sport5.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02k",
-        "skWeight": 84,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32074116,
-        "start": 1645197000000,
-        "end": 1645200300000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Vendée Globe",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "Golf Channel HD",
         "name": "Golf Channel HD",
-        "weight": 85,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/golf-channel.png"
@@ -1665,39 +1187,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/golf-channel.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02l",
-        "skWeight": 97,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32038006,
-        "start": 1645189200000,
-        "end": 1645203600000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Australian PGA Championship",
-        "availableTo": 1645794000000
       }
     },
     {
       "channel": {
         "channelKey": "FightBoxHD",
         "name": "FightBox HD",
-        "weight": 86,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/fightbox.png"
@@ -1708,39 +1204,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/fightbox.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02m",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32037452,
-        "start": 1645194600000,
-        "end": 1645208400000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Colosseum Tournament, Bucharest, Romania 14.12.2021",
-        "availableTo": 1645799400000
       }
     },
     {
       "channel": {
         "channelKey": "EdgeSportHD",
         "name": "Edge Sport HD",
-        "weight": 87,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/edge-sport-hd.png"
@@ -1751,39 +1221,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/edge-sport-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02n",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32037192,
-        "start": 1645194600000,
-        "end": 1645200900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Live Recap Crankworx Summer Series 2021 (1)",
-        "availableTo": 1645799400000
       }
     },
     {
       "channel": {
         "channelKey": "Disney Channel",
         "name": "Disney Channel",
-        "weight": 90,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/disney-channel.png"
@@ -1794,39 +1238,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/disney-channel.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02q",
-        "skWeight": 121,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32036208,
-        "start": 1645197300000,
-        "end": 1645197900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Kluk Holka atd (51)",
-        "availableTo": 1645802100000
       }
     },
     {
       "channel": {
         "channelKey": "Nickelodeon",
         "name": "Nickelodeon",
-        "weight": 91,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nickelodeon.png"
@@ -1837,39 +1255,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nickelodeon.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02r",
-        "skWeight": 123,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039243,
-        "start": 1645197600000,
-        "end": 1645199100000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Spongebob v kalhotách XI (227)",
-        "availableTo": 1645802400000
       }
     },
     {
       "channel": {
         "channelKey": "Nick Jr.",
         "name": "Nick Jr.",
-        "weight": 92,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nick-jr.png"
@@ -1880,39 +1272,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nick-jr.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02s",
-        "skWeight": 124,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039388,
-        "start": 1645197000000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "BARBAPAPA a jeho rodinka (26)",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "NickHD",
         "name": "Nick HD",
-        "weight": 93,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nick-hd.png"
@@ -1923,39 +1289,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nick-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02t",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039182,
-        "start": 1645197600000,
-        "end": 1645199100000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Lumpíci (7)",
-        "availableTo": 1645802400000
       }
     },
     {
       "channel": {
         "channelKey": "Nicktoons",
         "name": "Nicktoons",
-        "weight": 94,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nicktoons.png"
@@ -1966,39 +1306,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nicktoons.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02u",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039480,
-        "start": 1645196100000,
-        "end": 1645197900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Je to poník II (5)",
-        "availableTo": 1645800900000
       }
     },
     {
       "channel": {
         "channelKey": "RiKTV",
         "name": "RiK TV",
-        "weight": 95,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/rik.png"
@@ -2009,39 +1323,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/rik.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "02v",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32041044,
-        "start": 1645196700000,
-        "end": 1645198500000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Malý medvedík (5)",
-        "availableTo": 1645801500000
       }
     },
     {
       "channel": {
         "channelKey": "Cartoon Network",
         "name": "Cartoon Network HD",
-        "weight": 96,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/cn.png"
@@ -2052,39 +1340,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/cn.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "030",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32034676,
-        "start": 1645197600000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Totální Dramarama (2)",
-        "availableTo": 1645802400000
       }
     },
     {
       "channel": {
         "channelKey": "Boomerang",
         "name": "Boomerang",
-        "weight": 97,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/boomerang.png"
@@ -2095,39 +1357,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/boomerang.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "031",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32034551,
-        "start": 1645196400000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Tom and Jerry in New York - Season 2 (4/6)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "ducktv",
-        "name": "ducktv",
-        "weight": 98,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 300000,
+        "name": "Duck TV",
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ducktv.png"
@@ -2138,39 +1374,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ducktv.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "032",
-        "skWeight": 126,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32036692,
-        "start": 1645197480000,
-        "end": 1645197720000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Bebé Didy (12)",
-        "availableTo": 1645802280000
       }
     },
     {
       "channel": {
         "channelKey": "ČT :D HD / ČT art HD",
         "name": "ČT :D HD / ČT art HD",
-        "weight": 99,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct-d-hd.png"
@@ -2181,39 +1391,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct-d-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "033",
-        "skWeight": 99,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035694,
-        "start": 1645197000000,
-        "end": 1645198800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Operace Jauu! VII",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "LalaTV",
         "name": "Lala TV",
-        "weight": 100,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/lala-tv.png"
@@ -2224,39 +1408,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/lala-tv.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "034",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32038570,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Hvězdy a hvězdičky",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Food network",
-        "name": "Food network",
-        "weight": 110,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
+        "name": "Food Network",
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/food-network.png"
@@ -2267,23 +1425,7 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/food-network.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "03e",
-        "skWeight": 213,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32037648,
-        "start": 1645197300000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Dětská kuchařská soutěž VI (9)",
-        "availableTo": 1645802100000
       }
     },
     {
