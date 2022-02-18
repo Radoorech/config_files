@@ -4,16 +4,6 @@
       "channel": {
         "channelKey": "ČT1 HD",
         "name": "ČT1 HD",
-        "weight": 1,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct1-hd.png"
@@ -24,23 +14,7 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct1-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "001",
-        "skWeight": 10,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035750,
-        "start": 1645196700000,
-        "end": 1645198800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Co naše babičky uměly a na co my jsme zapomněli",
-        "availableTo": 1645801500000
       }
     },
     {
