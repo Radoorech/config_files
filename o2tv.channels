@@ -6581,8 +6581,8 @@
     },
     {
       "channel": {
-        "channelKey": "Akvárium HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
-        "name": "Akvárium",
+        "channelKey": "Akvárium",
+        "name": "Akvárium HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
         "weight": 888,
         "npvr": false,
         "o2tv": true,
