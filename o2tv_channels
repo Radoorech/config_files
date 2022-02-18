@@ -21,16 +21,6 @@
       "channel": {
         "channelKey": "ČT2 HD",
         "name": "ČT2 HD",
-        "weight": 2,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct2-hd.png"
@@ -41,39 +31,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct2-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "002",
-        "skWeight": 31,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035597,
-        "start": 1645197000000,
-        "end": 1645200300000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Tajemství nacistů (6/6)",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "Nova HD",
         "name": "Nova HD",
-        "weight": 3,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/nova_202201.png"
@@ -84,39 +48,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova_202201.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "003",
-        "skWeight": 3,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039615,
-        "start": 1645196400000,
-        "end": 1645199820000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Kriminálka Miami IX (4/22)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Prima HD",
         "name": "Prima HD",
-        "weight": 4,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-hd.png"
@@ -127,39 +65,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "004",
-        "skWeight": 4,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040256,
-        "start": 1645195200000,
-        "end": 1645199400000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Ano, šéfe!",
-        "availableTo": 1645800000000
       }
     },
     {
       "channel": {
         "channelKey": "O2 Sport",
         "name": "O2TV SPORT HD",
-        "weight": 5,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 3000,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/o2-sport-hd.png"
@@ -170,39 +82,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/o2-sport-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "005",
-        "skWeight": -1,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039930,
-        "start": 1645196400000,
-        "end": 1645201800000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "WTA500: Dubai Duty Free Tennis Championships (2. semifinále)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Prima Cool HD",
         "name": "Prima Cool HD",
-        "weight": 6,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-cool-hd.png"
@@ -213,39 +99,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-cool-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "006",
-        "skWeight": 6,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040190,
-        "start": 1645197000000,
-        "end": 1645200900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Hvězdná brána III (54)",
-        "availableTo": 1645801800000
       }
     },
     {
       "channel": {
         "channelKey": "Prima LOVE HD",
         "name": "Prima LOVE HD",
-        "weight": 7,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-love-hd.png"
@@ -256,39 +116,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-love-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "007",
-        "skWeight": 7,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040332,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Zasněná láska (66)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Prima ZOOM HD",
         "name": "Prima ZOOM HD",
-        "weight": 8,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-zoom-hd.png"
@@ -299,39 +133,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-zoom-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "008",
-        "skWeight": 8,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040430,
-        "start": 1645195500000,
-        "end": 1645199400000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Jedinečná psí povolání (1)",
-        "availableTo": 1645800300000
       }
     },
     {
       "channel": {
         "channelKey": "Prima MAX HD",
         "name": "Prima MAX HD",
-        "weight": 9,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-max-hd.png"
@@ -342,39 +150,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-max-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "009",
-        "skWeight": 9,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040351,
-        "start": 1645195800000,
-        "end": 1645202700000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Jesse Stone: Smrt v jezeře",
-        "availableTo": 1645800600000
       }
     },
     {
       "channel": {
         "channelKey": "Televize Seznam HD",
         "name": "Televize Seznam HD",
-        "weight": 11,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/seznam-hd.png"
@@ -385,39 +167,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/seznam-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00b",
-        "skWeight": 11,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32041572,
-        "start": 1645197300000,
-        "end": 1645200900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Soukromé očko III (2/12)",
-        "availableTo": 1645802100000
       }
     },
     {
       "channel": {
         "channelKey": "ČT24 HD",
         "name": "ČT24 HD",
-        "weight": 12,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct24-hd.png"
@@ -428,39 +184,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct24-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00c",
-        "skWeight": 40,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035560,
-        "start": 1645196400000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Zprávy v 16",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "O2 Info",
         "name": "O2TV Info HD",
-        "weight": 13,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": false,
-        "storedMediaDuration": 180,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/o2-info.png"
@@ -471,39 +201,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/o2-info.png"
           }
-        },
-        "startOverTvEnabled": false,
-        "keyForCache": "00d",
-        "skWeight": 13,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32039846,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": false,
-        "timeShift": false,
-        "name": "Infokanál O2TV",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "Paramount Network",
         "name": "Paramount Network",
-        "weight": 14,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/paramount_network.png"
@@ -514,39 +218,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/paramount_network.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00e",
-        "skWeight": 14,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040051,
-        "start": 1645196700000,
-        "end": 1645198500000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Goldbergovi VI (4)",
-        "availableTo": 1645801500000
       }
     },
     {
       "channel": {
         "channelKey": "Prima Krimi HD",
         "name": "Prima Krimi HD",
-        "weight": 15,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-krimi.png"
@@ -557,39 +235,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-krimi.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00f",
-        "skWeight": 15,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32040307,
-        "start": 1645196400000,
-        "end": 1645203900000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Big Ben III (4)",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "CNNPrimaNews",
         "name": "CNN Prima News",
-        "weight": 16,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 1000,
-        "epgEndOverlap": 900000,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/prima-cnn.png"
@@ -600,39 +252,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/prima-cnn.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00g",
-        "skWeight": 41,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32034876,
-        "start": 1645196400000,
-        "end": 1645198200000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Zprávy",
-        "availableTo": 1645801200000
       }
     },
     {
       "channel": {
         "channelKey": "CT3HD",
         "name": "ČT3 HD",
-        "weight": 17,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": true,
-        "live": true,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/ct3-hd.png"
@@ -643,39 +269,13 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/ct3-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00h",
-        "skWeight": 17,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32035629,
-        "start": 1645197300000,
-        "end": 1645199100000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Tajemství proutěného košíku (11/13)",
-        "availableTo": 1645802100000
       }
     },
     {
       "channel": {
         "channelKey": "Barrandov HD",
         "name": "TV Barrandov HD",
-        "weight": 19,
-        "npvr": true,
-        "o2tv": true,
-        "defaultGroup": false,
-        "live": false,
-        "npvrForStartedProgram": true,
-        "npvrForEndedProgram": true,
-        "storedMediaDuration": 10100,
-        "epgStartOverlap": 0,
-        "epgEndOverlap": 0,
         "images": {
           "color": {
             "url": "/assets/images/tv-logos/negative/barrandov-hd.png"
@@ -686,23 +286,7 @@
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/barrandov-hd.png"
           }
-        },
-        "startOverTvEnabled": true,
-        "keyForCache": "00j",
-        "skWeight": 19,
-        "restrictions": {
-          "indecentAudience": false,
-          "timeshiftEnabled": true
         }
-      },
-      "live": {
-        "epgId": 32041770,
-        "start": 1645196400000,
-        "end": 1645200000000,
-        "npvr": true,
-        "timeShift": false,
-        "name": "Exploziv",
-        "availableTo": 1645801200000
       }
     },
     {
