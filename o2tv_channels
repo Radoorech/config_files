@@ -2624,13 +2624,13 @@
         "name": "Jednotka HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/stv1.png"
+            "url": "/assets/images/tv-logos/negative/stv.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/stv1.png"
+            "url": "/assets/images/tv-logos/negative_115/stv.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/stv1.png"
+            "url": "/assets/images/tv-logos/win/stv.png"
           }
         }
       }
@@ -2641,13 +2641,13 @@
         "name": "Dvojka HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/stv2.png"
+            "url": "/assets/images/tv-logos/negative/dvojka.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/stv2.png"
+            "url": "/assets/images/tv-logos/negative_115/dvojka.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/stv2.png"
+            "url": "/assets/images/tv-logos/win/dvojka.png"
           }
         }
       }
@@ -2658,13 +2658,13 @@
         "name": "Trojka HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/stv3.png"
+            "url": "/assets/images/tv-logos/negative/trojka.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/stv3.png"
+            "url": "/assets/images/tv-logos/negative_115/trojka.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/stv3.png"
+            "url": "/assets/images/tv-logos/win/trojka.png"
           }
         }
       }
@@ -2722,170 +2722,170 @@
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "JOJ Plus HD",
+        "name": "JOJ Plus HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/joj-plus.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/joj-plus.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/joj-plus.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "Doma HD",
+        "name": "Doma HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/doma.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/doma.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/doma.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "Wau HD",
+        "name": "WAU HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/wau.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/wau.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/wau.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "Prima Plus HD",
+        "name": "Prima Plus HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/prima-plus.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/prima-plus.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/prima-plus.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": NovaInternationalHD",
+        "name": "Nova International HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/nova-international.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/nova-international.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/nova-international.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "RTVSSport",
+        "name": "RTVS Šport HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/rtvs-sport.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/rtvs-sport.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/rtvs-sport.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "JOJ_sport",
+        "name": "JOJ Šport HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/joj-sport.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/joj-sport.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/joj-sport.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "Jojko HD",
+        "name": "Jojko HD",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/jojko.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/jojko.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/jojko.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "Minimax",
+        "name": "Minimax",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/minimax.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/minimax.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/minimax.png"
           }
         }
       }
     },
     {
       "channel": {
-        "channelKey": "Akvárium",
-        "name": "Akvárium",
+        "channelKey": "JimJam",
+        "name": "JimJam",
         "images": {
           "color": {
-            "url": "/assets/images/tv-logos/negative/akvarium.png"
+            "url": "/assets/images/tv-logos/negative/jimjam.png"
           },
           "color_115": {
-            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+            "url": "/assets/images/tv-logos/negative_115/jimjam.png"
           },
           "blackWhite": {
-            "url": "/assets/images/tv-logos/win/akvarium.png"
+            "url": "/assets/images/tv-logos/win/jimjam.png"
           }
         }
       }
