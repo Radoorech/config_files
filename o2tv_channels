@@ -2617,7 +2617,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "Jednotka HD",
@@ -2634,7 +2634,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "Dvojka HD",
@@ -2651,7 +2651,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "TrojkaHD",
@@ -2668,7 +2668,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "Markíza HD",
@@ -2685,7 +2685,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "Dajto! HD",
@@ -2702,7 +2702,7 @@
           }
         }
       }
-    }
+    },
     {
       "channel": {
         "channelKey": "JOJ HD",
@@ -2719,7 +2719,177 @@
           }
         }
       }
-    }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Akvárium",
+        "name": "Akvárium",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/akvarium.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/akvarium.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/akvarium.png"
+          }
+        }
+      }
+    },
   ],
   "count": null
 }
