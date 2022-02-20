@@ -2841,6 +2841,40 @@
     },
     {
       "channel": {
+        "channelKey": "Sport1 HD",
+        "name": "Sport 1 HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/sport1-hd.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/sport1-hd.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/sport1-hd.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Sport2 HD",
+        "name": "Sport 2 HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/sport2-hd.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/sport2-hd.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/sport2-hd.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
         "channelKey": "Jojko HD",
         "name": "Jojko HD",
         "images": {
@@ -2852,6 +2886,57 @@
           },
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/jojko.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "AMC HD",
+        "name": "AMC HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/amc-hd.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/amc-hd.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/amc-hd.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Film%2B HD",
+        "name": "Film+ HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/film-plus-hd.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/film-plus-hd.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/film-plus-hd.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "Spektrum HD",
+        "name": "Spektrum HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/spektrum-hd.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/spektrum-hd.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/spektrum-hd.png"
           }
         }
       }
