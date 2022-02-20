@@ -2618,6 +2618,108 @@
         }
       }
     }
+    {
+      "channel": {
+        "channelKey": "Jednotka HD",
+        "name": "Jednotka HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/stv1.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/stv1.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/stv1.png"
+          }
+        }
+      }
+    }
+    {
+      "channel": {
+        "channelKey": "Dvojka HD",
+        "name": "Dvojka HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/stv2.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/stv2.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/stv2.png"
+          }
+        }
+      }
+    }
+    {
+      "channel": {
+        "channelKey": "TrojkaHD",
+        "name": "Trojka HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/stv3.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/stv3.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/stv3.png"
+          }
+        }
+      }
+    }
+    {
+      "channel": {
+        "channelKey": "Markíza HD",
+        "name": "Markíza HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/markiza.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/markiza.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/markiza.png"
+          }
+        }
+      }
+    }
+    {
+      "channel": {
+        "channelKey": "Dajto! HD",
+        "name": "Dajto HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/dajto.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/dajto.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/dajto.png"
+          }
+        }
+      }
+    }
+    {
+      "channel": {
+        "channelKey": "JOJ HD",
+        "name": "JOJ HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/joj.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/joj.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/joj.png"
+          }
+        }
+      }
+    }
   ],
   "count": null
 }
