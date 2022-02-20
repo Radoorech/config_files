@@ -2790,7 +2790,7 @@
     },
     {
       "channel": {
-        "channelKey": NovaInternationalHD",
+        "channelKey": "NovaInternationalHD",
         "name": "Nova International HD",
         "images": {
           "color": {
