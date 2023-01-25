@@ -1,160 +1,19 @@
 {
-  "success" : true,
-  "errorCode" : null,
-  "errorMessage" : null,
-  "developerMessage" : null,
-  "userSide" : false,
-  "cacheControl" : {
-    "maxAge" : 14,
-    "noCache" : false
-  },
-  "localizedMessage" : null,
-  "errorClass" : null,
-  "errorChecked" : false,
-  "stackTrace" : null,
-  "cause" : null,
-  "totalCount" : 194,
-  "offset" : 0,
-  "items" : [ {
+  "items" : [
+  {
     "channel" : {
       "channelId" : 4099,
-      "type" : "TV",
       "defaultChannelPosition" : 1,
       "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jednotka-hd.png",
       "name" : "Jednotka HD",
-      "hasLive" : true,
-      "hasArchive" : true,
-      "recordable" : {
-        "go" : false,
-        "iptv" : false
-      },
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : true,
-      "archive" : 604800000,
-      "timeshift" : 5400
-    },
-    "live" : {
-      "name" : "Kráska a zviera - Klasická rozprávka",
-      "start" : 1672308900000,
-      "end" : 1672314900000,
-      "archiveFrom" : 1672314900000,
-      "archiveTo" : 1672919700000,
-      "recordingEnabledUntil" : {
-        "go" : 0,
-        "iptv" : 0
-      },
-      "live" : true,
-      "parentalRating" : 7,
-      "recordings" : null,
-      "seriesId" : "MSTV297438116",
-      "seasonNumber" : null,
-      "episodeId" : null,
-      "runtimeMinutes" : "89",
-      "adult" : false,
-      "creationYear" : "2012",
-      "category" : "Detské",
-      "id" : 17605480951204,
-      "archive" : 17605480951204,
-      "shortDescription" : "Klasická rozprávka.",
-      "episodeTitle" : null,
-      "originalTitle" : null,
-      "sponsorLogoUrl" : null,
-      "channelId" : 4099,
-      "startFormatted" : "29. 12. 2022 11:15:00",
-      "endFormatted" : "29. 12. 2022 12:55:00",
-      "startTimeUTC" : "2022-12-29T10:15:00.000Z",
-      "endTimeUTC" : "2022-12-29T11:55:00.000Z",
-      "longDescription" : "Hugo, otec krásnej Elsy, jedného dňa zablúdi v lese a nájde tajomný opustený zámok. Keď odtrhne ružu, napadne ho zvláštne stvorenie - napolo človek a napolo zviera. Hugo si zachráni život, keď mu na výmenu miesto seba ponúkne prvého človeka, ktorého stretne pri návrate domov. Na jeho veľké zdesenie je to však práve krásna Elsa. (skryté titulky)",
-      "parentalLock" : false,
-      "parentalRatingStr" : "*7",
-      "programInfoId" : 2125314440,
-      "directors" : [ {
-        "firstName" : "Marc-Andreas",
-        "lastName" : "Bochert",
-        "fullName" : "Marc-Andreas Bochert"
-      } ],
-      "actors" : [ {
-        "firstName" : "Maximilan",
-        "lastName" : "Simonischek",
-        "fullName" : "Maximilan Simonischek"
-      }, {
-        "firstName" : "Cornelia",
-        "lastName" : "Gröschel",
-        "fullName" : "Cornelia Gröschel"
-      }, {
-        "firstName" : "Tarrach",
-        "lastName" : "Jürgen",
-        "fullName" : "Tarrach Jürgen"
-      } ],
-      "images" : [ "https://image.cdn.magio.tv/eimg/STV1/Kr%c3%a1ska%20a%20zviera/_a0.jpg", "https://image.cdn.magio.tv/eimg/STV1/Kr%c3%a1ska%20a%20zviera/_a1.jpg", "https://image.cdn.magio.tv/eimg/STV1/Kr%c3%a1ska%20a%20zviera/_a2.jpg", "https://image.cdn.magio.tv/eimg/STV1/Kr%c3%a1ska%20a%20zviera/Kraska%20a%20zvire_01_VERT.jpg", "https://image.cdn.magio.tv/eimg/STV1/Kr%c3%a1ska%20a%20zviera/Kraska%20a%20zvire_04_VERT.jpg" ],
-      "series" : false,
-      "channelname" : "Jednotka HD",
-      "channelLogoUrl" : "https://files.cdn.magio.tv/tv_logos/jednotka-hd.png"
-    },
-    "next" : null
+    }
   }, {
     "channel" : {
       "channelId" : 4146,
-      "type" : "TV",
       "defaultChannelPosition" : 2,
       "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvojka-hd.png",
       "name" : "Dvojka HD",
-      "hasLive" : true,
-      "hasArchive" : true,
-      "recordable" : {
-        "go" : false,
-        "iptv" : false
-      },
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : true,
-      "archive" : 604800000,
-      "timeshift" : 5400
-    },
-    "live" : {
-      "name" : "Radosť zo života",
-      "start" : 1672313400000,
-      "end" : 1672314900000,
-      "archiveFrom" : 1672314900000,
-      "archiveTo" : 1672919700000,
-      "recordingEnabledUntil" : {
-        "go" : 0,
-        "iptv" : 0
-      },
-      "live" : true,
-      "parentalRating" : 7,
-      "recordings" : null,
-      "seriesId" : "MSTV-690056731",
-      "seasonNumber" : null,
-      "episodeId" : "19",
-      "runtimeMinutes" : "27",
-      "adult" : false,
-      "creationYear" : "2008",
-      "category" : "Dokumenty",
-      "id" : 17807344418616,
-      "archive" : 17807344418616,
-      "shortDescription" : "Portrét známeho humoristu (skryté titulky)",
-      "episodeTitle" : "Július Satinský",
-      "originalTitle" : null,
-      "sponsorLogoUrl" : null,
-      "channelId" : 4146,
-      "startFormatted" : "29. 12. 2022 12:30:00",
-      "endFormatted" : "29. 12. 2022 12:55:00",
-      "startTimeUTC" : "2022-12-29T11:30:00.000Z",
-      "endTimeUTC" : "2022-12-29T11:55:00.000Z",
-      "longDescription" : "Portrét známeho humoristu (skryté titulky)",
-      "parentalLock" : false,
-      "parentalRatingStr" : "*7",
-      "programInfoId" : 1326697385,
-      "directors" : [ ],
-      "actors" : [ ],
-      "images" : [ "https://image.cdn.magio.tv/eimg/STV1/Rados%c5%a5%20zo%20%c5%beivota/_a0.jpg", "https://image.cdn.magio.tv/eimg/STV1/Rados%c5%a5%20zo%20%c5%beivota/_av0_VERT.jpg" ],
-      "series" : true,
-      "channelname" : "Dvojka HD",
-      "channelLogoUrl" : "https://files.cdn.magio.tv/tv_logos/dvojka-hd.png"
-    },
-    "next" : null
+    }
   }, {
     "channel" : {
       "channelId" : 4044,
