@@ -76,7 +76,7 @@
       "channelId" : 35,
       "name" : "Spektrum HD"
     }, {
-      "channelId" : 4026
+      "channelId" : 4026,
       "name" : "Spektrum Home"
     }, {
       "channelId" : 4004,
@@ -218,9 +218,10 @@
       "channelId" : 23,
       "name" : "MTV 00s"
     }, {
-      "channelId" : 4510
+      "channelId" : 4510,
+      "name" : "Stingray Classica HD"
     }, {
-      "channelId" : 4312
+      "channelId" : 4312,
       "name" : "Stingray Djazz HD"
     }, {
       "channelId" : 4328,
@@ -296,7 +297,7 @@
       "channelId" : 4012,
       "name" : "Cool TV"
     }, {
-      "channelId" : 4546
+      "channelId" : 4546,
       "name" : "FILM+ HU HD"
     }, {
       "channelId" : 4541,
@@ -401,9 +402,6 @@
     "channels" : [ {
       "channelId" : 4075,
       "name" : "TA3 HD"
-    }, {
-      "channelId" : 4516,
-      "name" : ":24 HD"
     }, {
       "channelId" : 4516,
       "name" : ":24 HD"
