@@ -1,1 +1,4 @@
-[{"id":5,"title":"Jednotka","epgId":"181"},{"id":6,"title":"Dvojka","epgId":"180"},{"id":51845,"title":"24","epgId":"1016"},{"id":96464,"title":"Šport","epgId":"928"}]
+[{"id":5,"title":"Jednotka","logo": "https://am.di-vision.sk/images/logo/stv1_20220527.png","epgId":"181"},
+{"id":6,"title":"Dvojka","logo": "https://am.di-vision.sk/images/logo/stv2_20220527.png","epgId":"180"},
+{"id":51845,"title":"24","logo": "https://am.di-vision.sk/images/logo/stv24_2022060301.png","epgId":"1016"},
+{"id":96464,"title":"Šport","logo": "https://am.di-vision.sk/images/logo/rtvssport.png","epgId":"928"}]
