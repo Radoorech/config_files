@@ -2,1635 +2,398 @@
   "success" : true,
   "categories" : [ {
     "id" : 1,
-    "name" : "Všeobecnéééééééééééééé",
-    "adult" : false,
+    "name" : "Slovenské",
     "channels" : [ {
       "channelId" : 4099,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Jednotka HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Jednotka HD"
     }, {
       "channelId" : 4146,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Dvojka HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Dvojka HD"
     }, {
       "channelId" : 4516,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : ":24 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : ":24 HD"
     }, {
       "channelId" : 4044,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Markíza HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Markíza HD"
     }, {
       "channelId" : 4221,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Doma HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Doma HD"
     }, {
       "channelId" : 4111,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "DAJTO HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "DAJTO HD"
     }, {
       "channelId" : 4070,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "JOJ HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "JOJ HD"
     }, {
       "channelId" : 4222,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Plus HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Plus HD"
     }, {
       "channelId" : 4223,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Wau HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Wau HD"
     }, {
       "channelId" : 4101,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima LOVE HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima LOVE HD"
     }, {
       "channelId" : 4240,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ČT1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "ČT1 HD"
     }, {
       "channelId" : 4239,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ČT2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "ČT2 HD"
     }, {
       "channelId" : 4305,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima Plus HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima Plus HD"
     }, {
       "channelId" : 4309,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nova Intl. HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Nova Intl. HD"
     }, {
       "channelId" : 4514,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "STRIKE TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "STRIKE TV HD"
     }, {
       "channelId" : 4102,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima Cool HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima Cool HD"
     }, {
       "channelId" : 4331,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima Krimi HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima Krimi HD"
     }, {
       "channelId" : 4458,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Televize Seznam HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Televize Seznam HD"
     }, {
       "channelId" : 4278,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima Max HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima Max HD"
     }, {
       "channelId" : 4165,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Senzi",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Senzi"
     }, {
       "channelId" : 4470,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Prima Zoom HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Prima Zoom HD"
     }, {
       "channelId" : 4008,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Lux TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Lux TV HD"
     }, {
       "channelId" : 4523,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CNN Prima News HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CNN Prima News HD"
     }, {
       "channelId" : 4292,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CNN Intl. Europe",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CNN Intl. Europe"
     }, {
       "channelId" : 4557,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Markíza KRIMI HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Markíza KRIMI HD"
     } ]
   }, {
-    "id" : 111,
-    "name" : "Spravodajské",
-    "adult" : false,
+    "id" : 2,
+    "name" : "České",
     "channels" : [ {
-      "channelId" : 4075,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "TA3 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "channelId" : 4268,
+      "name" : "Eroxxx HD"
     }, {
-      "channelId" : 4074,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ČT24 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "channelId" : 6021,
+      "name" : "Dorcel TV HD"
     }, {
-      "channelId" : 4566,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "JOJ 24 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "channelId" : 4232,
+      "name" : "XMO"
+    }, {
+      "channelId" : 4218,
+      "name" : "Dusk TV"
+    } ]
+  }, {
+    "id" : 3,
+    "name" : "Filmové",
+    "channels" : [ {
+      "channelId" : 4326,
+      "name" : "Epic Drama HD"
+    }, {
+      "channelId" : 4512,
+      "name" : "Filmbox HD"
+    }, {
+      "channelId" : 4568,
+      "name" : "Filmbox Stars HD"
+    }, {
+      "channelId" : 29,
+      "name" : "CS Film-CS Horror"
+    }, {
+      "channelId" : 4140,
+      "name" : "Film Europe HD"
+    }, {
+      "channelId" : 4324,
+      "name" : "AMC HD"
+    }, {
+      "channelId" : 4325,
+      "name" : "FILM+ HD"
+    }, {
+      "channelId" : 4237,
+      "name" : "JOJ Cinema HD"
+    }, {
+      "channelId" : 4096,
+      "name" : "Filmbox Family"
+    }, {
+      "channelId" : 4027,
+      "name" : "Filmbox Extra HD"
+    }, {
+      "channelId" : 4270,
+      "name" : "Filmbox Premium HD"
+    }, {
+      "channelId" : 4570,
+      "name" : "Kino Barrandov HD"
+    }, {
+      "channelId" : 4565,
+      "name" : "CANAL+ Action HD"
+    } ]
+  }, {
+    "id" : 4,
+    "name" : "Dokumentárne",
+    "channels" : [ {
+      "channelId" : 4004,
+      "name" : "NGC HD"
+    }, {
+      "channelId" : 4026,
+      "name" : "Spektrum Home"
+    }, {
+      "channelId" : 35,
+      "name" : "Spektrum HD"
+    }, {
+      "channelId" : 4138,
+      "name" : "Animal Planet HD"
+    }, {
+      "channelId" : 4226,
+      "name" : "ID HD"
+    }, {
+      "channelId" : 4327,
+      "name" : "Discovery Channel HD"
+    }, {
+      "channelId" : 4503,
+      "name" : "Viasat Nature HD"
+    }, {
+      "channelId" : 4501,
+      "name" : "Viasat Explore HD"
+    }, {
+      "channelId" : 4502,
+      "name" : "Viasat History HD"
+    }, {
+      "channelId" : 4495,
+      "name" : "BBC Earth HD"
+    }, {
+      "channelId" : 4264,
+      "name" : "NGC Wild HD"
+    }, {
+      "channelId" : 4571,
+      "name" : "Disc. Turbo Xtra HD"
+    }, {
+      "channelId" : 4152,
+      "name" : "Discovery Science HD"
+    }, {
+      "channelId" : 4003,
+      "name" : "History HD"
+    }, {
+      "channelId" : 4042,
+      "name" : "Fishing and Hunting"
+    }, {
+      "channelId" : 4581,
+      "name" : "TV Spark"
+    }, {
+      "channelId" : 4178,
+      "name" : "Crime and Inv."
     } ]
   }, {
     "id" : 5,
     "name" : "Športové",
-    "adult" : false,
     "channels" : [ {
       "channelId" : 4011,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Eurosport 1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Eurosport 1 HD"
     }, {
       "channelId" : 4106,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Golf Channel HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Golf Channel HD"
     }, {
       "channelId" : 4142,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Eurosport 2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Eurosport 2 HD"
     }, {
       "channelId" : 4143,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Sport2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Sport2 HD"
     }, {
       "channelId" : 4144,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nova Sport 1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Nova Sport 1 HD"
     }, {
       "channelId" : 4162,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "PREMIER SPORT 1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "PREMIER SPORT 1 HD"
     }, {
       "channelId" : 4230,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Sport1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Sport1 HD"
     }, {
       "channelId" : 4298,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nova Sport 2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Nova Sport 2 HD"
     }, {
       "channelId" : 4464,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ČT Sport HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "ČT Sport HD"
     }, {
       "channelId" : 4504,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Auto Motor Sport HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Auto Motor Sport HD"
     }, {
       "channelId" : 4517,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Arena Sport 1 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Arena Sport 1 HD"
     }, {
       "channelId" : 4122,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Fightbox HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Fightbox HD"
     }, {
       "channelId" : 4532,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "RTVS SPORT HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "RTVS SPORT HD"
     }, {
       "channelId" : 4533,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "PREMIER SPORT 2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "PREMIER SPORT 2 HD"
     }, {
       "channelId" : 4535,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nova Sport 3 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Nova Sport 3 HD"
     }, {
       "channelId" : 4537,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nova Sport 4 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Nova Sport 4 HD"
     }, {
       "channelId" : 4556,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "JOJ Sport HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "JOJ Sport HD"
     }, {
       "channelId" : 4559,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport HD"
     }, {
       "channelId" : 4560,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport 2 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport 2 HD"
     }, {
       "channelId" : 4561,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport 3 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport 3 HD"
     }, {
       "channelId" : 4562,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport 4 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport 4 HD"
     }, {
       "channelId" : 4563,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport 5 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport 5 HD"
     }, {
       "channelId" : 4564,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Sport 6 HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    } ]
-  }, {
-    "id" : 2,
-    "name" : "Filmové",
-    "adult" : false,
-    "channels" : [ {
-      "channelId" : 4326,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Epic Drama HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4512,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Filmbox HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4568,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Filmbox Stars HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 29,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CS Film-CS Horror",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4140,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Film Europe HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4324,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "AMC HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4325,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "FILM+ HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4237,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "JOJ Cinema HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4096,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Filmbox Family",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4027,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Filmbox Extra HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4270,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Filmbox Premium HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4570,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Kino Barrandov HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4565,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "CANAL+ Action HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    } ]
-  }, {
-    "id" : 8,
-    "name" : "Dokumentárne",
-    "adult" : false,
-    "channels" : [ {
-      "channelId" : 4004,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "NGC HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4026,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Spektrum Home",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 35,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Spektrum HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4138,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Animal Planet HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4226,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ID HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4327,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Discovery Channel HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4503,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Viasat Nature HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4501,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Viasat Explore HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4502,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Viasat History HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4495,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "BBC Earth HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4264,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "NGC Wild HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4571,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Disc. Turbo Xtra HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4152,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Discovery Science HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4003,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "History HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4042,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Fishing and Hunting",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4581,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "TV Spark",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4178,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Crime and Inv.",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    } ]
-  }, {
-    "id" : 7,
-    "name" : "Detské",
-    "adult" : false,
-    "channels" : [ {
-      "channelId" : 15,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Disney Channel",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 38,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Minimax",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4014,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Jim Jam",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4052,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nickelodeon",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4092,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nick Jr.",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4577,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Duck TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4234,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Ťuki TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4467,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "ČT :D - ČT Art HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4507,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "LaLa TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4513,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Nick Toons",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4313,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Cartoon Network HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4554,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "TV RiK HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    } ]
-  }, {
-    "id" : 100,
-    "name" : "Lifestyle",
-    "adult" : false,
-    "channels" : [ {
-      "channelId" : 4572,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "TLC HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 4578,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Food Network HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 45,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Fashion TV",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
-    }, {
-      "channelId" : 118,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Travel Channel HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "CANAL+ Sport 6 HD"
     } ]
   }, {
     "id" : 6,
+    "name" : "Detské",
+    "channels" : [ {
+      "channelId" : 15,
+      "name" : "Disney Channel"
+    }, {
+      "channelId" : 38,
+      "name" : "Minimax"
+    }, {
+      "channelId" : 4014,
+      "name" : "Jim Jam"
+    }, {
+      "channelId" : 4052,
+      "name" : "Nickelodeon"
+    }, {
+      "channelId" : 4092,
+      "name" : "Nick Jr."
+    }, {
+      "channelId" : 4577,
+      "name" : "Duck TV HD"
+    }, {
+      "channelId" : 4234,
+      "name" : "Ťuki TV HD"
+    }, {
+      "channelId" : 4467,
+      "name" : "ČT :D - ČT Art HD"
+    }, {
+      "channelId" : 4507,
+      "name" : "LaLa TV HD"
+    }, {
+      "channelId" : 4513,
+      "name" : "Nick Toons"
+    }, {
+      "channelId" : 4313,
+      "name" : "Cartoon Network HD"
+    }, {
+      "channelId" : 4554,
+      "name" : "TV RiK HD"
+    } ]
+  }, {
+    "id" : 7,
+    "name" : "Spravodajské",
+    "channels" : [ {
+      "channelId" : 4075,
+      "name" : "TA3 HD"
+    }, {
+      "channelId" : 4074,
+      "name" : "ČT24 HD"
+    }, {
+      "channelId" : 4566,
+      "name" : "JOJ 24 HD"
+    } ]
+  }, {
+    "id" : 8,
     "name" : "Hudobné",
-    "adult" : false,
     "channels" : [ {
       "channelId" : 4332,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Folklorika TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Folklorika TV HD"
     }, {
       "channelId" : 4499,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Óčko HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Óčko HD"
     }, {
       "channelId" : 4308,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "MTV 80s",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "MTV 80s"
     }, {
       "channelId" : 4261,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "MTV Hits",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "MTV Hits"
     }, {
       "channelId" : 4262,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Club MTV",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Club MTV"
     }, {
       "channelId" : 4263,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "MTV 90s",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "MTV 90s"
     }, {
       "channelId" : 23,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "MTV 00s",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "MTV 00s"
     }, {
       "channelId" : 4574,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Šláger Originál HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Šláger Originál HD"
     } ]
   }, {
-    "id" : 110,
+    "id" : 9,
+    "name" : "Lifestyle",
+    "channels" : [ {
+      "channelId" : 4572,
+      "name" : "TLC HD"
+    }, {
+      "channelId" : 4578,
+      "name" : "Food Network HD"
+    }, {
+      "channelId" : 45,
+      "name" : "Fashion TV"
+    }, {
+      "channelId" : 118,
+      "name" : "Travel Channel HD"
+    } ]
+  }, {
+    "id" : 10,
     "name" : "Pre dospelých",
-    "adult" : true,
     "channels" : [ {
       "channelId" : 4268,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Eroxxx HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Eroxxx HD"
     }, {
       "channelId" : 6021,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Dorcel TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Dorcel TV HD"
     }, {
       "channelId" : 4232,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "XMO",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "XMO"
     }, {
       "channelId" : 4218,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Dusk TV",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Dusk TV"
     } ]
   }, {
-    "id" : 200,
-    "name" : "Slovenské",
-    "adult" : true,
+    "id" : 11,
+    "name" : "Ostatné",
     "channels" : [ {
       "channelId" : 4268,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Eroxxx HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Eroxxx HD"
     }, {
       "channelId" : 6021,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Dorcel TV HD",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Dorcel TV HD"
     }, {
       "channelId" : 4232,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "XMO",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "XMO"
     }, {
       "channelId" : 4218,
-      "type" : null,
-      "defaultChannelPosition" : null,
-      "logoUrl" : null,
-      "name" : "Dusk TV",
-      "hasLive" : null,
-      "hasArchive" : null,
-      "recordable" : null,
-      "liveSubscription" : false,
-      "archiveSubscription" : false,
-      "hasTimeshift" : false,
-      "archive" : null,
-      "timeshift" : null
+      "name" : "Dusk TV"
     } ]
   } ]
 }
