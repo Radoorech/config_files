@@ -109,7 +109,7 @@
     "channelId" : 4470,
     "defaultChannelPosition" : 26,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-zoom-hd.png",
-    "name" : "Prima Zoom HD"
+    "name" : "Prima ZOOM HD"
   }, {
     "channelId" : 4008,
     "defaultChannelPosition" : 27,
@@ -129,7 +129,7 @@
     "channelId" : 4102,
     "defaultChannelPosition" : 32,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-cool-hd.png",
-    "name" : "Prima Cool HD"
+    "name" : "Prima COOL HD"
   }, {
     "channelId" : 4234,
     "defaultChannelPosition" : 40,
@@ -339,7 +339,7 @@
     "channelId" : 4226,
     "defaultChannelPosition" : 95,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/id-hd.png",
-    "name" : "ID HD"
+    "name" : "Discovery ID HD"
   }, {
     "channelId" : 4138,
     "defaultChannelPosition" : 96,
@@ -359,17 +359,17 @@
     "channelId" : 4004,
     "defaultChannelPosition" : 99,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-hd.png",
-    "name" : "NGC HD"
+    "name" : "National Geographic HD"
   }, {
     "channelId" : 4264,
     "defaultChannelPosition" : 100,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-wild-hd.png",
-    "name" : "NGC Wild HD"
+    "name" : "National Geographic Wild HD"
   }, {
     "channelId" : 4571,
     "defaultChannelPosition" : 101,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disc--turbo-xtra-hd.png",
-    "name" : "Disc. Turbo Xtra HD"
+    "name" : "Discovery Turbo Xtra HD"
   }, {
     "channelId" : 4152,
     "defaultChannelPosition" : 102,
@@ -394,7 +394,7 @@
     "channelId" : 4178,
     "defaultChannelPosition" : 106,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png",
-    "name" : "Crime and Inv."
+    "name" : "Crime and Investigation"
   }, {
     "channelId" : 118,
     "defaultChannelPosition" : 108,
@@ -479,7 +479,7 @@
     "channelId" : 4331,
     "defaultChannelPosition" : 144,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-krimi-hd.png",
-    "name" : "Prima Krimi HD"
+    "name" : "Prima KRIMI HD"
   }, {
     "channelId" : 4278,
     "defaultChannelPosition" : 145,
