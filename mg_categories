@@ -1571,6 +1571,66 @@
       "archive" : null,
       "timeshift" : null
     } ]
-  } ],
-  "stackTraceString" : null
+  }, {
+    "id" : 200,
+    "name" : "Slovenské",
+    "adult" : true,
+    "channels" : [ {
+      "channelId" : 4268,
+      "type" : null,
+      "defaultChannelPosition" : null,
+      "logoUrl" : null,
+      "name" : "Eroxxx HD",
+      "hasLive" : null,
+      "hasArchive" : null,
+      "recordable" : null,
+      "liveSubscription" : false,
+      "archiveSubscription" : false,
+      "hasTimeshift" : false,
+      "archive" : null,
+      "timeshift" : null
+    }, {
+      "channelId" : 6021,
+      "type" : null,
+      "defaultChannelPosition" : null,
+      "logoUrl" : null,
+      "name" : "Dorcel TV HD",
+      "hasLive" : null,
+      "hasArchive" : null,
+      "recordable" : null,
+      "liveSubscription" : false,
+      "archiveSubscription" : false,
+      "hasTimeshift" : false,
+      "archive" : null,
+      "timeshift" : null
+    }, {
+      "channelId" : 4232,
+      "type" : null,
+      "defaultChannelPosition" : null,
+      "logoUrl" : null,
+      "name" : "XMO",
+      "hasLive" : null,
+      "hasArchive" : null,
+      "recordable" : null,
+      "liveSubscription" : false,
+      "archiveSubscription" : false,
+      "hasTimeshift" : false,
+      "archive" : null,
+      "timeshift" : null
+    }, {
+      "channelId" : 4218,
+      "type" : null,
+      "defaultChannelPosition" : null,
+      "logoUrl" : null,
+      "name" : "Dusk TV",
+      "hasLive" : null,
+      "hasArchive" : null,
+      "recordable" : null,
+      "liveSubscription" : false,
+      "archiveSubscription" : false,
+      "hasTimeshift" : false,
+      "archive" : null,
+      "timeshift" : null
+    } ]
+  } ]
 }
