@@ -2,32 +2,14 @@
   "success" : true,
   "items" : [ {
     "channelId" : 4099,
-    "type" : "TV",
     "defaultChannelPosition" : 1,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jednotka-hd.png",
     "name" : "Jednotka HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
   }, {
     "channelId" : 4146,
-    "type" : "TV",
     "defaultChannelPosition" : 2,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvojka-hd.png",
     "name" : "Dvojka HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
   }, {
     "channelId" : 4044,
     "type" : "TV",
