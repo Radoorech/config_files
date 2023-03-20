@@ -4,12 +4,12 @@
     "channelId" : 4099,
     "defaultChannelPosition" : 1,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jednotka-hd.png",
-    "name" : "Jednotka HD",
+    "name" : "Jednotka HD"
   }, {
     "channelId" : 4146,
     "defaultChannelPosition" : 2,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvojka-hd.png",
-    "name" : "Dvojka HD",
+    "name" : "Dvojka HD"
   }, {
     "channelId" : 4044,
     "type" : "TV",
