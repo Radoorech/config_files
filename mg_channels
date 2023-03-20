@@ -12,60 +12,24 @@
     "name" : "Dvojka HD"
   }, {
     "channelId" : 4044,
-    "type" : "TV",
-    "defaultChannelPosition" : 4,
+	"defaultChannelPosition" : 4,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-hd.png",
-    "name" : "Markíza HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Markíza HD"
   }, {
     "channelId" : 4070,
-    "type" : "TV",
     "defaultChannelPosition" : 5,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-hd.png",
-    "name" : "JOJ HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "JOJ HD"
   }, {
     "channelId" : 4222,
-    "type" : "TV",
     "defaultChannelPosition" : 7,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/plus-hd.png",
-    "name" : "Plus HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "JOJ Plus HD"
   }, {
     "channelId" : 4111,
-    "type" : "TV",
     "defaultChannelPosition" : 8,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dajto-hd.png",
-    "name" : "DAJTO HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "DAJTO HD"
   }, {
     "channelId" : 4565,
     "type" : "TV",
