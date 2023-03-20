@@ -26,7 +26,7 @@
       "name" : "JOJ HD"
     }, {
       "channelId" : 4222,
-      "name" : "Plus HD"
+      "name" : "JOJ Plus HD"
     }, {
       "channelId" : 4223,
       "name" : "Wau HD"
@@ -44,28 +44,28 @@
       "name" : "Prima Plus HD"
     }, {
       "channelId" : 4309,
-      "name" : "Nova Intl. HD"
+      "name" : "Nova International HD"
     }, {
       "channelId" : 4514,
       "name" : "STRIKE TV HD"
     }, {
       "channelId" : 4102,
-      "name" : "Prima Cool HD"
+      "name" : "Prima COOL HD"
     }, {
       "channelId" : 4331,
-      "name" : "Prima Krimi HD"
+      "name" : "Prima KRIMI HD"
     }, {
       "channelId" : 4458,
       "name" : "Televize Seznam HD"
     }, {
       "channelId" : 4278,
-      "name" : "Prima Max HD"
+      "name" : "Prima MAX HD"
     }, {
       "channelId" : 4165,
       "name" : "Senzi"
     }, {
       "channelId" : 4470,
-      "name" : "Prima Zoom HD"
+      "name" : "Prima ZOOM HD"
     }, {
       "channelId" : 4008,
       "name" : "Lux TV HD"
@@ -143,7 +143,7 @@
     "name" : "Dokumentárne",
     "channels" : [ {
       "channelId" : 4004,
-      "name" : "NGC HD"
+      "name" : "National Geographic HD"
     }, {
       "channelId" : 4026,
       "name" : "Spektrum Home"
@@ -155,7 +155,7 @@
       "name" : "Animal Planet HD"
     }, {
       "channelId" : 4226,
-      "name" : "ID HD"
+      "name" : "Discovery ID HD"
     }, {
       "channelId" : 4327,
       "name" : "Discovery Channel HD"
@@ -173,10 +173,10 @@
       "name" : "BBC Earth HD"
     }, {
       "channelId" : 4264,
-      "name" : "NGC Wild HD"
+      "name" : "National Geographic Wild HD"
     }, {
       "channelId" : 4571,
-      "name" : "Disc. Turbo Xtra HD"
+      "name" : "Discovery Turbo Xtra HD"
     }, {
       "channelId" : 4152,
       "name" : "Discovery Science HD"
@@ -191,7 +191,7 @@
       "name" : "TV Spark"
     }, {
       "channelId" : 4178,
-      "name" : "Crime and Inv."
+      "name" : "Crime and Investigation"
     } ]
   }, {
     "id" : 5,
@@ -383,11 +383,11 @@
     "id" : 11,
     "name" : "Ostatné",
     "channels" : [ {
-      "channelId" : 4268,
-      "name" : "Eroxxx HD"
+      "channelId" : 4514,
+      "name" : "STRIKE TV HD"
     }, {
-      "channelId" : 6021,
-      "name" : "Dorcel TV HD"
+      "channelId" : 4008,
+      "name" : "Lux TV HD"
     }, {
       "channelId" : 4232,
       "name" : "XMO"
