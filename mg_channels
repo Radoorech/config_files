@@ -32,1446 +32,518 @@
     "name" : "DAJTO HD"
   }, {
     "channelId" : 4565,
-    "type" : "TV",
     "defaultChannelPosition" : 9,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--action-hd.png",
-    "name" : "CANAL+ Action HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Action HD"
   }, {
     "channelId" : 4221,
-    "type" : "TV",
     "defaultChannelPosition" : 10,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/doma-hd.png",
-    "name" : "Doma HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Doma HD"
   }, {
     "channelId" : 4223,
-    "type" : "TV",
     "defaultChannelPosition" : 11,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/wau-hd.png",
-    "name" : "Wau HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Wau HD"
   }, {
     "channelId" : 4332,
-    "type" : "TV",
     "defaultChannelPosition" : 13,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/folklorika-tv-hd.png",
-    "name" : "Folklorika TV HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Folklorika TV HD"
   }, {
     "channelId" : 4240,
-    "type" : "TV",
     "defaultChannelPosition" : 14,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
-    "name" : "ČT1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ČT1 HD"
   }, {
     "channelId" : 4239,
-    "type" : "TV",
     "defaultChannelPosition" : 15,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct2-hd.png",
-    "name" : "ČT2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ČT2 HD"
   }, {
     "channelId" : 4305,
-    "type" : "TV",
     "defaultChannelPosition" : 16,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-plus-hd.png",
-    "name" : "Prima Plus HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima Plus HD"
   }, {
     "channelId" : 4309,
-    "type" : "TV",
     "defaultChannelPosition" : 17,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-intl--hd.png",
-    "name" : "Nova Intl. HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nova International HD"
   }, {
     "channelId" : 4075,
-    "type" : "TV",
     "defaultChannelPosition" : 18,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ta3-hd.png",
-    "name" : "TA3 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "TA3 HD"
   }, {
     "channelId" : 4566,
-    "type" : "TV",
     "defaultChannelPosition" : 19,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-24-hd.png",
-    "name" : "JOJ 24 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "JOJ 24 HD"
   }, {
     "channelId" : 4516,
-    "type" : "TV",
     "defaultChannelPosition" : 20,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/-24-hd.png",
-    "name" : ":24 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : ":24 HD"
   }, {
     "channelId" : 4523,
-    "type" : "TV",
     "defaultChannelPosition" : 21,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cnn-prima-news-hd.png",
-    "name" : "CNN Prima News HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CNN Prima News HD"
   }, {
     "channelId" : 4074,
-    "type" : "TV",
     "defaultChannelPosition" : 22,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct24-hd.png",
-    "name" : "ČT24 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ČT24 HD"
   }, {
     "channelId" : 4458,
-    "type" : "TV",
     "defaultChannelPosition" : 23,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/televize-seznam-hd.png",
-    "name" : "Televize Seznam HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Televize Seznam HD"
   }, {
     "channelId" : 4165,
-    "type" : "TV",
     "defaultChannelPosition" : 25,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/senzi.png",
-    "name" : "Senzi",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Senzi"
   }, {
     "channelId" : 4470,
-    "type" : "TV",
     "defaultChannelPosition" : 26,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-zoom-hd.png",
-    "name" : "Prima Zoom HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima Zoom HD"
   }, {
     "channelId" : 4008,
-    "type" : "TV",
     "defaultChannelPosition" : 27,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/lux-tv-hd.png",
-    "name" : "Lux TV HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Lux TV HD"
   }, {
     "channelId" : 4557,
-    "type" : "TV",
     "defaultChannelPosition" : 30,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-krimi-hd.png",
-    "name" : "Markíza KRIMI HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Markíza KRIMI HD"
   }, {
     "channelId" : 4101,
-    "type" : "TV",
     "defaultChannelPosition" : 31,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-love-hd.png",
-    "name" : "Prima LOVE HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima LOVE HD"
   }, {
     "channelId" : 4102,
-    "type" : "TV",
     "defaultChannelPosition" : 32,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-cool-hd.png",
-    "name" : "Prima Cool HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima Cool HD"
   }, {
     "channelId" : 4234,
-    "type" : "TV",
     "defaultChannelPosition" : 40,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tuki-tv-hd.png",
-    "name" : "Ťuki TV HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Ťuki TV HD"
   }, {
     "channelId" : 4507,
-    "type" : "TV",
     "defaultChannelPosition" : 41,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/lala-tv-hd.png",
-    "name" : "LaLa TV HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "LaLa TV HD"
   }, {
     "channelId" : 4554,
-    "type" : "TV",
     "defaultChannelPosition" : 42,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-rik-hd.png",
-    "name" : "TV RiK HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "TV RiK HD"
   }, {
     "channelId" : 4052,
-    "type" : "TV",
     "defaultChannelPosition" : 43,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nickelodeon.png",
-    "name" : "Nickelodeon",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nickelodeon"
   }, {
     "channelId" : 38,
-    "type" : "TV",
     "defaultChannelPosition" : 44,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/minimax.png",
-    "name" : "Minimax",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Minimax"
   }, {
     "channelId" : 15,
-    "type" : "TV",
     "defaultChannelPosition" : 45,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disney-channel.png",
-    "name" : "Disney Channel",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Disney Channel"
   }, {
     "channelId" : 4513,
-    "type" : "TV",
     "defaultChannelPosition" : 46,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nick-toons.png",
-    "name" : "Nick Toons",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nick Toons"
   }, {
     "channelId" : 4467,
-    "type" : "TV",
     "defaultChannelPosition" : 47,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct--d---ct-art-hd.png",
-    "name" : "ČT :D - ČT Art HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ČT :D - ČT Art HD"
   }, {
     "channelId" : 4092,
-    "type" : "TV",
     "defaultChannelPosition" : 48,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nick-jr-.png",
-    "name" : "Nick Jr.",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nick Jr."
   }, {
     "channelId" : 4313,
-    "type" : "TV",
     "defaultChannelPosition" : 49,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cartoon-network-hd.png",
-    "name" : "Cartoon Network HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Cartoon Network HD"
   }, {
     "channelId" : 4577,
-    "type" : "TV",
     "defaultChannelPosition" : 50,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/duck-tv-hd.png",
-    "name" : "Duck TV HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Duck TV HD"
   }, {
     "channelId" : 4014,
-    "type" : "TV",
     "defaultChannelPosition" : 52,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jim-jam.png",
-    "name" : "Jim Jam",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Jim Jam"
   }, {
     "channelId" : 4514,
-    "type" : "TV",
     "defaultChannelPosition" : 56,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/strike-tv-hd.png",
-    "name" : "STRIKE TV HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "STRIKE TV HD"
   }, {
     "channelId" : 4559,
-    "type" : "TV",
     "defaultChannelPosition" : 58,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-hd.png",
-    "name" : "CANAL+ Sport HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport HD"
   }, {
     "channelId" : 4560,
-    "type" : "TV",
     "defaultChannelPosition" : 59,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-2-hd.png",
-    "name" : "CANAL+ Sport 2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport 2 HD"
   }, {
     "channelId" : 4162,
-    "type" : "TV",
     "defaultChannelPosition" : 60,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/premier-sport-1-hd.png",
-    "name" : "PREMIER SPORT 1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "PREMIER SPORT 1 HD"
   }, {
     "channelId" : 4533,
-    "type" : "TV",
     "defaultChannelPosition" : 61,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/premier-sport-2-hd.png",
-    "name" : "PREMIER SPORT 2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "PREMIER SPORT 2 HD"
   }, {
     "channelId" : 4535,
-    "type" : "TV",
     "defaultChannelPosition" : 62,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png",
-    "name" : "Nova Sport 3 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nova Sport 3 HD"
   }, {
     "channelId" : 4537,
-    "type" : "TV",
     "defaultChannelPosition" : 63,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png",
-    "name" : "Nova Sport 4 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nova Sport 4 HD"
   }, {
     "channelId" : 4517,
-    "type" : "TV",
     "defaultChannelPosition" : 64,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/arena-sport-1-hd.png",
-    "name" : "Arena Sport 1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Arena Sport 1 HD"
   }, {
     "channelId" : 4011,
-    "type" : "TV",
     "defaultChannelPosition" : 65,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png",
-    "name" : "Eurosport 1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Eurosport 1 HD"
   }, {
     "channelId" : 4142,
-    "type" : "TV",
     "defaultChannelPosition" : 66,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png",
-    "name" : "Eurosport 2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Eurosport 2 HD"
   }, {
     "channelId" : 4230,
-    "type" : "TV",
     "defaultChannelPosition" : 67,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport1-hd.png",
-    "name" : "Sport1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Sport1 HD"
   }, {
     "channelId" : 4143,
-    "type" : "TV",
     "defaultChannelPosition" : 68,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport2-hd.png",
-    "name" : "Sport2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Sport2 HD"
   }, {
     "channelId" : 4144,
-    "type" : "TV",
     "defaultChannelPosition" : 69,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png",
-    "name" : "Nova Sport 1 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nova Sport 1 HD"
   }, {
     "channelId" : 4298,
-    "type" : "TV",
     "defaultChannelPosition" : 70,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png",
-    "name" : "Nova Sport 2 HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Nova Sport 2 HD"
   }, {
     "channelId" : 4106,
-    "type" : "TV",
     "defaultChannelPosition" : 71,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/golf-channel-hd.png",
-    "name" : "Golf Channel HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Golf Channel HD"
   }, {
     "channelId" : 4504,
-    "type" : "TV",
     "defaultChannelPosition" : 72,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/auto-motor-sport-hd.png",
-    "name" : "Auto Motor Sport HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Auto Motor Sport HD"
   }, {
     "channelId" : 4122,
-    "type" : "TV",
     "defaultChannelPosition" : 73,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fightbox-hd.png",
-    "name" : "Fightbox HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Fightbox HD"
   }, {
     "channelId" : 4464,
-    "type" : "TV",
     "defaultChannelPosition" : 77,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct-sport-hd.png",
-    "name" : "ČT Sport HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ČT Sport HD"
   }, {
     "channelId" : 4532,
-    "type" : "TV",
     "defaultChannelPosition" : 79,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/rtvs-sport-hd.png",
-    "name" : "RTVS SPORT HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "RTVS SPORT HD"
   }, {
     "channelId" : 4556,
-    "type" : "TV",
     "defaultChannelPosition" : 81,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png",
-    "name" : "JOJ Sport HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "JOJ Sport HD"
   }, {
     "channelId" : 4561,
-    "type" : "TV",
     "defaultChannelPosition" : 82,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-3-hd.png",
-    "name" : "CANAL+ Sport 3 HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport 3 HD"
   }, {
     "channelId" : 4562,
-    "type" : "TV",
     "defaultChannelPosition" : 83,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-4-hd.png",
-    "name" : "CANAL+ Sport 4 HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport 4 HD"
   }, {
     "channelId" : 4563,
-    "type" : "TV",
     "defaultChannelPosition" : 84,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-5-hd.png",
-    "name" : "CANAL+ Sport 5 HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport 5 HD"
   }, {
     "channelId" : 4564,
-    "type" : "TV",
     "defaultChannelPosition" : 85,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-6-hd.png",
-    "name" : "CANAL+ Sport 6 HD",
-    "hasLive" : true,
-    "hasArchive" : false,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CANAL+ Sport 6 HD"
   }, {
     "channelId" : 4495,
-    "type" : "TV",
     "defaultChannelPosition" : 90,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/bbc-earth-hd.png",
-    "name" : "BBC Earth HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "BBC Earth HD"
   }, {
     "channelId" : 4502,
-    "type" : "TV",
     "defaultChannelPosition" : 91,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-history-hd.png",
-    "name" : "Viasat History HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Viasat History HD"
   }, {
     "channelId" : 4501,
-    "type" : "TV",
     "defaultChannelPosition" : 92,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-explore-hd.png",
-    "name" : "Viasat Explore HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Viasat Explore HD"
   }, {
     "channelId" : 4503,
-    "type" : "TV",
     "defaultChannelPosition" : 93,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-nature-hd.png",
-    "name" : "Viasat Nature HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Viasat Nature HD"
   }, {
     "channelId" : 4327,
-    "type" : "TV",
     "defaultChannelPosition" : 94,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/discovery-channel-hd.png",
-    "name" : "Discovery Channel HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Discovery Channel HD"
   }, {
     "channelId" : 4226,
-    "type" : "TV",
     "defaultChannelPosition" : 95,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/id-hd.png",
-    "name" : "ID HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "ID HD"
   }, {
     "channelId" : 4138,
-    "type" : "TV",
     "defaultChannelPosition" : 96,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/animal-planet-hd.png",
-    "name" : "Animal Planet HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Animal Planet HD"
   }, {
     "channelId" : 35,
-    "type" : "TV",
     "defaultChannelPosition" : 97,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-hd.png",
-    "name" : "Spektrum HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Spektrum HD"
   }, {
     "channelId" : 4026,
-    "type" : "TV",
     "defaultChannelPosition" : 98,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-home.png",
-    "name" : "Spektrum Home",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Spektrum Home"
   }, {
     "channelId" : 4004,
-    "type" : "TV",
     "defaultChannelPosition" : 99,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-hd.png",
-    "name" : "NGC HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "NGC HD"
   }, {
     "channelId" : 4264,
-    "type" : "TV",
     "defaultChannelPosition" : 100,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-wild-hd.png",
-    "name" : "NGC Wild HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "NGC Wild HD"
   }, {
     "channelId" : 4571,
-    "type" : "TV",
     "defaultChannelPosition" : 101,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disc--turbo-xtra-hd.png",
-    "name" : "Disc. Turbo Xtra HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Disc. Turbo Xtra HD"
   }, {
     "channelId" : 4152,
-    "type" : "TV",
     "defaultChannelPosition" : 102,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/discovery-science-hd.png",
-    "name" : "Discovery Science HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Discovery Science HD"
   }, {
     "channelId" : 4003,
-    "type" : "TV",
     "defaultChannelPosition" : 103,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/history-hd.png",
-    "name" : "History HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "History HD"
   }, {
     "channelId" : 4042,
-    "type" : "TV",
     "defaultChannelPosition" : 104,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fishing-and-hunting.png",
-    "name" : "Fishing and Hunting",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Fishing and Hunting"
   }, {
     "channelId" : 4581,
-    "type" : "TV",
     "defaultChannelPosition" : 105,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-spark.png",
-    "name" : "TV Spark",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "TV Spark"
   }, {
     "channelId" : 4178,
-    "type" : "TV",
     "defaultChannelPosition" : 106,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png",
-    "name" : "Crime and Inv.",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Crime and Inv."
   }, {
     "channelId" : 118,
-    "type" : "TV",
     "defaultChannelPosition" : 108,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/travel-channel-hd.png",
-    "name" : "Travel Channel HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Travel Channel HD"
   }, {
     "channelId" : 4578,
-    "type" : "TV",
     "defaultChannelPosition" : 111,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/food-network-hd.png",
-    "name" : "Food Network HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Food Network HD"
   }, {
     "channelId" : 4572,
-    "type" : "TV",
     "defaultChannelPosition" : 113,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tlc-hd.png",
-    "name" : "TLC HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "TLC HD"
   }, {
     "channelId" : 45,
-    "type" : "TV",
     "defaultChannelPosition" : 115,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fashion-tv.png",
-    "name" : "Fashion TV",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Fashion TV"
   }, {
     "channelId" : 4237,
-    "type" : "TV",
     "defaultChannelPosition" : 120,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-cinema-hd.png",
-    "name" : "JOJ Cinema HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "JOJ Cinema HD"
   }, {
     "channelId" : 4326,
-    "type" : "TV",
     "defaultChannelPosition" : 121,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/epic-drama-hd.png",
-    "name" : "Epic Drama HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Epic Drama HD"
   }, {
     "channelId" : 4512,
-    "type" : "TV",
     "defaultChannelPosition" : 122,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-hd.png",
-    "name" : "Filmbox HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Filmbox HD"
   }, {
     "channelId" : 4568,
-    "type" : "TV",
     "defaultChannelPosition" : 123,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-stars-hd.png",
-    "name" : "Filmbox Stars HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Filmbox Stars HD"
   }, {
     "channelId" : 29,
-    "type" : "TV",
     "defaultChannelPosition" : 127,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror.png",
-    "name" : "CS Film-CS Horror",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CS Film-CS Horror"
   }, {
     "channelId" : 4140,
-    "type" : "TV",
     "defaultChannelPosition" : 128,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/film-europe-hd.png",
-    "name" : "Film Europe HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Film Europe HD"
   }, {
     "channelId" : 4324,
-    "type" : "TV",
     "defaultChannelPosition" : 129,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/amc-hd.png",
-    "name" : "AMC HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "AMC HD"
   }, {
     "channelId" : 4325,
-    "type" : "TV",
     "defaultChannelPosition" : 130,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/film--hd.png",
-    "name" : "FILM+ HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "FILM+ HD"
   }, {
     "channelId" : 4096,
-    "type" : "TV",
     "defaultChannelPosition" : 136,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-family.png",
-    "name" : "Filmbox Family",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Filmbox Family"
   }, {
     "channelId" : 4027,
-    "type" : "TV",
     "defaultChannelPosition" : 137,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-extra-hd.png",
-    "name" : "Filmbox Extra HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Filmbox Extra HD"
   }, {
     "channelId" : 4270,
-    "type" : "TV",
     "defaultChannelPosition" : 138,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-premium-hd.png",
-    "name" : "Filmbox Premium HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Filmbox Premium HD"
   }, {
     "channelId" : 4570,
-    "type" : "TV",
     "defaultChannelPosition" : 139,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/kino-barrandov-hd.png",
-    "name" : "Kino Barrandov HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Kino Barrandov HD"
   }, {
     "channelId" : 4331,
-    "type" : "TV",
     "defaultChannelPosition" : 144,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-krimi-hd.png",
-    "name" : "Prima Krimi HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima Krimi HD"
   }, {
     "channelId" : 4278,
-    "type" : "TV",
     "defaultChannelPosition" : 145,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-max-hd.png",
-    "name" : "Prima Max HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Prima Max HD"
   }, {
     "channelId" : 4308,
-    "type" : "TV",
     "defaultChannelPosition" : 150,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-80s.png",
-    "name" : "MTV 80s",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "MTV 80s"
   }, {
     "channelId" : 4499,
-    "type" : "TV",
     "defaultChannelPosition" : 151,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ocko-hd.png",
-    "name" : "Óčko HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Óčko HD"
   }, {
     "channelId" : 4261,
-    "type" : "TV",
     "defaultChannelPosition" : 156,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-hits.png",
-    "name" : "MTV Hits",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "MTV Hits"
   }, {
     "channelId" : 4262,
-    "type" : "TV",
     "defaultChannelPosition" : 157,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/club-mtv.png",
-    "name" : "Club MTV",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Club MTV"
   }, {
     "channelId" : 4263,
-    "type" : "TV",
     "defaultChannelPosition" : 158,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-90s.png",
-    "name" : "MTV 90s",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "MTV 90s"
   }, {
     "channelId" : 23,
-    "type" : "TV",
     "defaultChannelPosition" : 159,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-00s.png",
-    "name" : "MTV 00s",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "MTV 00s"
   }, {
     "channelId" : 4574,
-    "type" : "TV",
     "defaultChannelPosition" : 164,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/slager-original-hd.png",
-    "name" : "Šláger Originál HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Šláger Originál HD"
   }, {
     "channelId" : 4268,
-    "type" : "TV",
     "defaultChannelPosition" : 211,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png",
-    "name" : "Eroxxx HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Eroxxx HD"
   }, {
     "channelId" : 6021,
-    "type" : "TV",
     "defaultChannelPosition" : 212,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dorcel-tv-hd.png",
-    "name" : "Dorcel TV HD",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Dorcel TV HD"
   }, {
     "channelId" : 4218,
-    "type" : "TV",
     "defaultChannelPosition" : 214,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dusk-tv.png",
-    "name" : "Dusk TV",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "Dusk TV"
   }, {
     "channelId" : 4232,
-    "type" : "TV",
     "defaultChannelPosition" : 217,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/xmo.png",
-    "name" : "XMO",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "XMO"
   }, {
     "channelId" : 4292,
-    "type" : "TV",
     "defaultChannelPosition" : 233,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cnn-intl--europe.png",
-    "name" : "CNN Intl. Europe",
-    "hasLive" : true,
-    "hasArchive" : true,
-    "recordable" : {
-      "go" : true,
-      "iptv" : false
-    },
-    "liveSubscription" : true,
-    "archiveSubscription" : false
+    "name" : "CNN Intl. Europe"
   } ],
-  "stackTraceString" : null
 }
