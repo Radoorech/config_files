@@ -10,9 +10,6 @@
       "channelId" : 4146,
       "name" : "Dvojka HD"
     }, {
-      "channelId" : 4516,
-      "name" : ":24 HD"
-    }, {
       "channelId" : 4044,
       "name" : "Markíza HD"
     }, {
@@ -31,50 +28,11 @@
       "channelId" : 4223,
       "name" : "Wau HD"
     }, {
-      "channelId" : 4101,
-      "name" : "Prima LOVE HD"
-    }, {
-      "channelId" : 4240,
-      "name" : "ČT1 HD"
-    }, {
-      "channelId" : 4239,
-      "name" : "ČT2 HD"
-    }, {
       "channelId" : 4305,
       "name" : "Prima Plus HD"
     }, {
       "channelId" : 4309,
       "name" : "Nova International HD"
-    }, {
-      "channelId" : 4514,
-      "name" : "STRIKE TV HD"
-    }, {
-      "channelId" : 4102,
-      "name" : "Prima COOL HD"
-    }, {
-      "channelId" : 4331,
-      "name" : "Prima KRIMI HD"
-    }, {
-      "channelId" : 4458,
-      "name" : "Televize Seznam HD"
-    }, {
-      "channelId" : 4278,
-      "name" : "Prima MAX HD"
-    }, {
-      "channelId" : 4165,
-      "name" : "Senzi"
-    }, {
-      "channelId" : 4470,
-      "name" : "Prima ZOOM HD"
-    }, {
-      "channelId" : 4008,
-      "name" : "Lux TV HD"
-    }, {
-      "channelId" : 4523,
-      "name" : "CNN Prima News HD"
-    }, {
-      "channelId" : 4292,
-      "name" : "CNN Intl. Europe"
     }, {
       "channelId" : 4557,
       "name" : "Markíza KRIMI HD"
@@ -83,17 +41,26 @@
     "id" : 2,
     "name" : "České",
     "channels" : [ {
-      "channelId" : 4268,
-      "name" : "Eroxxx HD"
+      "channelId" : 4240,
+      "name" : "ČT1 HD"
     }, {
-      "channelId" : 6021,
-      "name" : "Dorcel TV HD"
+      "channelId" : 4239,
+      "name" : "ČT2 HD"
     }, {
-      "channelId" : 4232,
-      "name" : "XMO"
+      "channelId" : 4102,
+      "name" : "Prima COOL HD"
     }, {
-      "channelId" : 4218,
-      "name" : "Dusk TV"
+      "channelId" : 4101,
+      "name" : "Prima LOVE HD"
+    }, {
+      "channelId" : 4331,
+      "name" : "Prima KRIMI HD"
+    }, {
+      "channelId" : 4458,
+      "name" : "Televize Seznam HD"
+    }, {
+      "channelId" : 4570,
+      "name" : "Kino Barrandov HD"
     } ]
   }, {
     "id" : 3,
@@ -132,11 +99,11 @@
       "channelId" : 4270,
       "name" : "Filmbox Premium HD"
     }, {
-      "channelId" : 4570,
-      "name" : "Kino Barrandov HD"
-    }, {
       "channelId" : 4565,
       "name" : "CANAL+ Action HD"
+    }, {
+      "channelId" : 4278,
+      "name" : "Prima MAX HD"
     } ]
   }, {
     "id" : 4,
@@ -144,9 +111,6 @@
     "channels" : [ {
       "channelId" : 4004,
       "name" : "National Geographic HD"
-    }, {
-      "channelId" : 4026,
-      "name" : "Spektrum Home"
     }, {
       "channelId" : 35,
       "name" : "Spektrum HD"
@@ -184,14 +148,14 @@
       "channelId" : 4003,
       "name" : "History HD"
     }, {
-      "channelId" : 4042,
-      "name" : "Fishing and Hunting"
-    }, {
       "channelId" : 4581,
       "name" : "TV Spark"
     }, {
       "channelId" : 4178,
       "name" : "Crime and Investigation"
+    }, {
+      "channelId" : 4470,
+      "name" : "Prima ZOOM HD"
     } ]
   }, {
     "id" : 5,
@@ -313,11 +277,20 @@
       "channelId" : 4075,
       "name" : "TA3 HD"
     }, {
-      "channelId" : 4074,
-      "name" : "ČT24 HD"
+      "channelId" : 4516,
+      "name" : ":24 HD"
     }, {
       "channelId" : 4566,
       "name" : "JOJ 24 HD"
+    }, {
+      "channelId" : 4074,
+      "name" : "ČT24 HD"
+    }, {
+      "channelId" : 4523,
+      "name" : "CNN Prima News HD"
+    }, {
+      "channelId" : 4292,
+      "name" : "CNN Intl. Europe"
     } ]
   }, {
     "id" : 8,
@@ -346,6 +319,9 @@
     }, {
       "channelId" : 4574,
       "name" : "Šláger Originál HD"
+    }, {
+      "channelId" : 4165,
+      "name" : "Senzi"
     } ]
   }, {
     "id" : 9,
@@ -360,6 +336,18 @@
       "channelId" : 45,
       "name" : "Fashion TV"
     }, {
+      "channelId" : 4026,
+      "name" : "Spektrum Home"
+    }, {
+      "channelId" : 4042,
+      "name" : "Fishing and Hunting"
+    }, {
+      "channelId" : 4514,
+      "name" : "STRIKE TV HD"
+    }, {
+      "channelId" : 4008,
+      "name" : "Lux TV HD"
+    }, {
       "channelId" : 118,
       "name" : "Travel Channel HD"
     } ]
@@ -372,22 +360,6 @@
     }, {
       "channelId" : 6021,
       "name" : "Dorcel TV HD"
-    }, {
-      "channelId" : 4232,
-      "name" : "XMO"
-    }, {
-      "channelId" : 4218,
-      "name" : "Dusk TV"
-    } ]
-  }, {
-    "id" : 11,
-    "name" : "Ostatné",
-    "channels" : [ {
-      "channelId" : 4514,
-      "name" : "STRIKE TV HD"
-    }, {
-      "channelId" : 4008,
-      "name" : "Lux TV HD"
     }, {
       "channelId" : 4232,
       "name" : "XMO"
