@@ -4,546 +4,655 @@
     "channelId" : 4099,
     "channelPosition" : 1,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jednotka-hd.png",
-    "name" : "Jednotka HD"
+    "name" : "Jednotka HD",
+	"epgName" : "Jednotka HD"
   }, {
     "channelId" : 4146,
     "channelPosition" : 2,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvojka-hd.png",
-    "name" : "Dvojka HD"
+    "name" : "Dvojka HD",
+	"epgName" : "Dvojka HD"
   }, {
     "channelId" : 4044,
 	"channelPosition" : 3,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-hd.png",
-    "name" : "Markíza HD"
+    "name" : "Markíza HD",
+	"epgName" : "Markiza HD"
   }, {
     "channelId" : 4070,
     "channelPosition" : 4,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-hd.png",
-    "name" : "JOJ HD"
+    "name" : "JOJ HD",
+	"epgName" : "JOJ HD"
   }, {
     "channelId" : 4222,
 	"channelPosition" : 5,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/plus-hd.png",
-    "name" : "JOJ Plus HD"
+    "name" : "JOJ Plus HD",
+	"epgName" : "Plus HD"
   }, {
     "channelId" : 4111,
     "channelPosition" : 6,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dajto-hd.png",
-    "name" : "DAJTO HD"
+    "name" : "DAJTO HD",
+	"epgName" : "DAJTO HD"
   }, {
     "channelId" : 4557,
     "channelPosition" : 7,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-krimi-hd.png",
-    "name" : "Markíza KRIMI HD"
+    "name" : "Markíza KRIMI HD",
+	"epgName" : "Markiza Krimi HD"
   }, {
     "channelId" : 4221,
     "channelPosition" : 8,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/doma-hd.png",
-    "name" : "Doma HD"
+    "name" : "Doma HD",
+	"epgName" : "Doma HD"
   }, {
     "channelId" : 4223,
     "channelPosition" : 9,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/wau-hd.png",
-    "name" : "Wau HD"
+    "name" : "Wau HD",
+	"epgName" : "Wau HD"
   }, {
     "channelId" : 4305,
     "channelPosition" : 10,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-plus-hd.png",
-    "name" : "Prima Plus HD"
+    "name" : "Prima Plus HD",
+	"epgName" : "Prima Plus HD"
   }, {
     "channelId" : 4309,
     "channelPosition" : 11,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-intl--hd.png",
-    "name" : "Nova International HD"
+    "name" : "Nova International HD",
+	"epgName" : "Nova Intl. HD"
   }, {
     "channelId" : 4240,
     "channelPosition" : 21,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
-    "name" : "ČT1 HD"
+    "name" : "ČT1 HD",
+	"epgName" : "CT1 HD"
   }, {
     "channelId" : 4239,
     "channelPosition" : 22,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct2-hd.png",
-    "name" : "ČT2 HD"
+    "name" : "ČT2 HD",
+	"epgName" : "CT2 HD"
   }, {
     "channelId" : 4102,
     "channelPosition" : 23,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-cool-hd.png",
-    "name" : "Prima COOL HD"
+    "name" : "Prima COOL HD",
+	"epgName" : "Prima Cool HD"
   }, {
     "channelId" : 4331,
     "channelPosition" : 24,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-krimi-hd.png",
-    "name" : "Prima KRIMI HD"
+    "name" : "Prima KRIMI HD",
+	"epgName" : "Prima Krimi HD"
   }, {
     "channelId" : 4101,
     "channelPosition" : 25,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-love-hd.png",
-    "name" : "Prima LOVE HD"
+    "name" : "Prima LOVE HD",
+	"epgName" : "Prima Love HD"
   }, {
     "channelId" : 4458,
     "channelPosition" : 26,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/televize-seznam-hd.png",
-    "name" : "Televize Seznam HD"
+    "name" : "Televize Seznam HD",
+	"epgName" : "Televize Seznam HD"
   }, {
     "channelId" : 4570,
     "channelPosition" : 27,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/kino-barrandov-hd.png",
-    "name" : "Kino Barrandov HD"
+    "name" : "Kino Barrandov HD",
+	"epgName" : "Kino Barrandov HD"
   }, {
     "channelId" : 4565,
     "channelPosition" : 41,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--action-hd.png",
-    "name" : "CANAL+ Action HD"
+    "name" : "CANAL+ Action HD",
+	"epgName" : "Canal+ Action HD"
   }, {
     "channelId" : 4237,
     "channelPosition" : 42,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-cinema-hd.png",
-    "name" : "JOJ Cinema HD"
+    "name" : "JOJ Cinema HD",
+	"epgName" : "JOJ Cinema HD"
   }, {
     "channelId" : 4278,
     "channelPosition" : 43,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-max-hd.png",
-    "name" : "Prima Max HD"
+    "name" : "Prima Max HD",
+	"epgName" : "Prima Max HD"
   }, {
     "channelId" : 4270,
     "channelPosition" : 44,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-premium-hd.png",
-    "name" : "Filmbox Premium HD"
+    "name" : "Filmbox Premium HD",
+	"epgName" : "Filmbox Premium HD"
   }, {
     "channelId" : 4027,
     "channelPosition" : 45,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-extra-hd.png",
-    "name" : "Filmbox Extra HD"
+    "name" : "Filmbox Extra HD",
+	"epgName" : "Filmbox Extra HD"
   }, {
     "channelId" : 4512,
     "channelPosition" : 46,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-hd.png",
-    "name" : "Filmbox HD"
+    "name" : "Filmbox HD",
+	"epgName" : "Filmbox HD"
   }, {
     "channelId" : 4568,
     "channelPosition" : 47,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-stars-hd.png",
-    "name" : "Filmbox Stars HD"
+    "name" : "Filmbox Stars HD",
+	"epgName" : "Filmbox Stars HD"
   }, {
     "channelId" : 4324,
     "channelPosition" : 48,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/amc-hd.png",
-    "name" : "AMC HD"
+    "name" : "AMC HD",
+	"epgName" : "AMC HD"
   }, {
     "channelId" : 4325,
     "channelPosition" : 49,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/film--hd.png",
-    "name" : "FILM+ HD"
+    "name" : "FILM+ HD",
+	"epgName" : "Film+ HD"
   }, {
     "channelId" : 4326,
     "channelPosition" : 50,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/epic-drama-hd.png",
-    "name" : "Epic Drama HD"
+    "name" : "Epic Drama HD",
+	"epgName" : "Epic Drama HD"
   }, {
     "channelId" : 4140,
     "channelPosition" : 51,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/film-europe-hd.png",
-    "name" : "Film Europe HD"
+    "name" : "Film Europe HD",
+	"epgName" : "Film Europe HD"
   }, {
     "channelId" : 29,
     "channelPosition" : 52,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror.png",
-    "name" : "CS Film-CS Horror"
+    "name" : "CS Film-CS Horror",
+	"epgName" : "CS Film-CS Horror"
   }, {
     "channelId" : 4096,
     "channelPosition" : 53,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/filmbox-family.png",
-    "name" : "Filmbox Family"
+    "name" : "Filmbox Family",
+	"epgName" : "Filmbox Family"
   }, {
     "channelId" : 4495,
     "channelPosition" : 61,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/bbc-earth-hd.png",
-    "name" : "BBC Earth HD"
+    "name" : "BBC Earth HD",
+	"epgName" : "BBC Earth HD"
   }, {
     "channelId" : 4470,
     "channelPosition" : 62,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-zoom-hd.png",
-    "name" : "Prima ZOOM HD"
+    "name" : "Prima ZOOM HD",
+	"epgName" : "Prima Zoom HD"
   }, {
     "channelId" : 35,
     "channelPosition" : 63,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-hd.png",
-    "name" : "Spektrum HD"
+    "name" : "Spektrum HD",
+	"epgName" : "Spektrum HD"
   }, {
     "channelId" : 4502,
     "channelPosition" : 64,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-history-hd.png",
-    "name" : "Viasat History HD"
+    "name" : "Viasat History HD",
+	"epgName" : "Viasat History HD"
   }, {
     "channelId" : 4501,
     "channelPosition" : 65,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-explore-hd.png",
-    "name" : "Viasat Explore HD"
+    "name" : "Viasat Explore HD",
+	"epgName" : "Viasat Explore	HD"
   }, {
     "channelId" : 4503,
     "channelPosition" : 66,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/viasat-nature-hd.png",
-    "name" : "Viasat Nature HD"
+    "name" : "Viasat Nature HD",
+	"epgName" : "Viasat Nature HD"
   }, {
     "channelId" : 4327,
     "channelPosition" : 67,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/discovery-channel-hd.png",
-    "name" : "Discovery Channel HD"
-  }, {
-    "channelId" : 4571,
-    "channelPosition" : 68,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disc--turbo-xtra-hd.png",
-    "name" : "Discovery Turbo Xtra HD"
+    "name" : "Discovery Channel HD",
+	"epgName" : "Discovery Channel HD"
   }, {
     "channelId" : 4152,
-    "channelPosition" : 69,
+    "channelPosition" : 68,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/discovery-science-hd.png",
-    "name" : "Discovery Science HD"
+    "name" : "Discovery Science HD",
+	"epgName" : "Discovery Science HD"
+  }, {
+    "channelId" : 4571,
+    "channelPosition" : 69,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disc--turbo-xtra-hd.png",
+    "name" : "Discovery Turbo Xtra HD",
+	"epgName" : "Disc. Turbo Xtra HD"
   }, {
     "channelId" : 4226,
     "channelPosition" : 70,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/id-hd.png",
-    "name" : "Discovery ID HD"
+    "name" : "Discovery ID HD",
+	"epgName" : "ID HD"
   }, {
     "channelId" : 4004,
     "channelPosition" : 71,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-hd.png",
-    "name" : "National Geographic HD"
+    "name" : "National Geographic HD",
+	"epgName" : "NGC HD"
   }, {
     "channelId" : 4264,
     "channelPosition" : 72,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ngc-wild-hd.png",
-    "name" : "National Geographic Wild HD"
+    "name" : "National Geographic Wild HD",
+	"epgName" : "NGC Wild HD"
   }, {
     "channelId" : 4003,
     "channelPosition" : 73,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/history-hd.png",
-    "name" : "History HD"
+    "name" : "History HD",
+	"epgName" : "History HD"
   }, {
     "channelId" : 4138,
     "channelPosition" : 74,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/animal-planet-hd.png",
-    "name" : "Animal Planet HD"
+    "name" : "Animal Planet HD",
+	"epgName" : "Animal Planet HD"
   }, {
     "channelId" : 4581,
     "channelPosition" : 76,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-spark.png",
-    "name" : "TV Spark"
+    "name" : "TV Spark",
+	"epgName" : "TV Spark"
   }, {
     "channelId" : 4178,
     "channelPosition" : 77,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png",
-    "name" : "Crime and Investigation"
-  }, {
-    "channelId" : 4464,
-    "channelPosition" : 81,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct-sport-hd.png",
-    "name" : "ČT Sport HD"
+    "name" : "Crime and Investigation",
+	"epgName" : "Crime and Inv."
   }, {
     "channelId" : 4532,
-    "channelPosition" : 82,
+    "channelPosition" : 81,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/rtvs-sport-hd.png",
-    "name" : "RTVS SPORT HD"
+    "name" : "RTVS ŠPORT HD",
+	"epgName" : "RTVS Sport HD"
   }, {
     "channelId" : 4556,
-    "channelPosition" : 83,
+    "channelPosition" : 82,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png",
-    "name" : "JOJ Sport HD"
+    "name" : "JOJ Šport HD",
+	"epgName" : "JOJ Sport HD"
+  }, {
+    "channelId" : 4464,
+    "channelPosition" : 83,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct-sport-hd.png",
+    "name" : "ČT Sport HD",
+	"epgName" : "CT Sport HD"
   }, {
     "channelId" : 4559,
     "channelPosition" : 84,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-hd.png",
-    "name" : "CANAL+ Sport HD"
+    "name" : "CANAL+ Sport HD",
+	"epgName" : "CANAL+ Sport HD"
   }, {
     "channelId" : 4560,
     "channelPosition" : 85,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-2-hd.png",
-    "name" : "CANAL+ Sport 2 HD"
+    "name" : "CANAL+ Sport 2 HD",
+	"epgName" : "CANAL+ Sport 2 HD"
   }, {
     "channelId" : 4162,
     "channelPosition" : 86,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/premier-sport-1-hd.png",
-    "name" : "PREMIER SPORT 1 HD"
+    "name" : "PREMIER SPORT 1 HD",
+	"epgName" : "PREMIER SPORT 1 HD"
   }, {
     "channelId" : 4533,
     "channelPosition" : 87,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/premier-sport-2-hd.png",
-    "name" : "PREMIER SPORT 2 HD"
+    "name" : "PREMIER SPORT 2 HD",
+	"epgName" : "PREMIER SPORT 2 HD"
   }, {
     "channelId" : 4535,
     "channelPosition" : 88,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png",
-    "name" : "Nova Sport 3 HD"
+    "name" : "Nova Sport 3 HD",
+	"epgName" : "Nova Sport 3 HD"
   }, {
     "channelId" : 4537,
     "channelPosition" : 89,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png",
-    "name" : "Nova Sport 4 HD"
+    "name" : "Nova Sport 4 HD",
+	"epgName" : "Nova Sport 4 HD"
   }, {
     "channelId" : 4011,
     "channelPosition" : 90,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png",
-    "name" : "Eurosport 1 HD"
+    "name" : "Eurosport 1 HD",
+	"epgName" : "Eurosport 1 HD"
   }, {
     "channelId" : 4142,
     "channelPosition" : 91,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png",
-    "name" : "Eurosport 2 HD"
+    "name" : "Eurosport 2 HD",
+	"epgName" : "Eurosport 2 HD"
   }, {
     "channelId" : 4144,
     "channelPosition" : 92,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png",
-    "name" : "Nova Sport 1 HD"
+    "name" : "Nova Sport 1 HD",
+	"epgName" : "Nova Sport 1 HD"
   }, {
     "channelId" : 4298,
     "channelPosition" : 93,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png",
-    "name" : "Nova Sport 2 HD"
+    "name" : "Nova Sport 2 HD",
+	"epgName" : "Nova Sport 2 HD"
   }, {
     "channelId" : 4230,
     "channelPosition" : 94,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport1-hd.png",
-    "name" : "Sport1 HD"
+    "name" : "Sport1 HD",
+	"epgName" : "Sport1 HD"
   }, {
     "channelId" : 4143,
     "channelPosition" : 95,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport2-hd.png",
-    "name" : "Sport2 HD"
+    "name" : "Sport2 HD",
+	"epgName" : "Sport2 HD"
   }, {
     "channelId" : 4517,
     "channelPosition" : 96,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/arena-sport-1-hd.png",
-    "name" : "Arena Sport 1 HD"
+    "name" : "Arena Sport 1 HD",
+	"epgName" : "Arena Sport 1 HD"
   }, {
     "channelId" : 4106,
     "channelPosition" : 97,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/golf-channel-hd.png",
-    "name" : "Golf Channel HD"
+    "name" : "Golf Channel HD",
+	"epgName" : "Golf Channel HD"
   }, {
     "channelId" : 4504,
     "channelPosition" : 98,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/auto-motor-sport-hd.png",
-    "name" : "Auto Motor Sport HD"
+    "name" : "Auto Motor Sport HD",
+	"epgName" : "Auto Motor Sport HD"
   }, {
     "channelId" : 4122,
     "channelPosition" : 99,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fightbox-hd.png",
-    "name" : "Fightbox HD"
+    "name" : "Fightbox HD",
+	"epgName" : "Fightbox HD"
   }, {
     "channelId" : 4561,
     "channelPosition" : 100,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-3-hd.png",
-    "name" : "CANAL+ Sport 3 HD"
+    "name" : "CANAL+ Sport 3 HD",
+	"epgName" : "CANAL+ Sport 3 HD"
   }, {
     "channelId" : 4562,
     "channelPosition" : 101,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-4-hd.png",
-    "name" : "CANAL+ Sport 4 HD"
+    "name" : "CANAL+ Sport 4 HD",
+	"epgName" : "CANAL+ Sport 4 HD"
   }, {
     "channelId" : 4563,
     "channelPosition" : 102,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-5-hd.png",
-    "name" : "CANAL+ Sport 5 HD"
+    "name" : "CANAL+ Sport 5 HD",
+	"epgName" : "CANAL+ Sport 5 HD"
   }, {
     "channelId" : 4564,
     "channelPosition" : 103,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-6-hd.png",
-    "name" : "CANAL+ Sport 6 HD"
+    "name" : "CANAL+ Sport 6 HD",
+	"epgName" : "CANAL+ Sport 6 HD"
   }, {
     "channelId" : 4234,
     "channelPosition" : 111,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tuki-tv-hd.png",
-    "name" : "Ťuki TV HD"
+    "name" : "Ťuki TV HD",
+	"epgName" : "Ťuki TV HD"
   }, {
     "channelId" : 4507,
     "channelPosition" : 112,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/lala-tv-hd.png",
-    "name" : "LaLa TV HD"
+    "name" : "LaLa TV HD",
+	"epgName" : "LaLa TV HD"
   }, {
     "channelId" : 4554,
     "channelPosition" : 113,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-rik-hd.png",
-    "name" : "TV RiK HD"
+    "name" : "TV RiK HD",
+	"epgName" : "TV RiK HD"
   }, {
     "channelId" : 4467,
     "channelPosition" : 114,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct--d---ct-art-hd.png",
-    "name" : "ČT :D - ČT Art HD"
+    "name" : "ČT :D - ČT Art HD",
+	"epgName" : "CT :D - CT Art HD HD"
   }, {
     "channelId" : 4313,
     "channelPosition" : 115,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cartoon-network-hd.png",
-    "name" : "Cartoon Network HD"
+    "name" : "Cartoon Network HD",
+	"epgName" : "Cartoon Network HD"
   }, {
     "channelId" : 4577,
     "channelPosition" : 116,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/duck-tv-hd.png",
-    "name" : "Duck TV HD"
+    "name" : "Duck TV HD",
+	"epgName" : "Duck TV HD"
   }, {
     "channelId" : 4052,
     "channelPosition" : 117,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nickelodeon.png",
-    "name" : "Nickelodeon"
+    "name" : "Nickelodeon",
+	"epgName" : "Nickelodeon"
   }, {
     "channelId" : 38,
     "channelPosition" : 118,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/minimax.png",
-    "name" : "Minimax"
+    "name" : "Minimax",
+	"epgName" : "Minimax"
   }, {
     "channelId" : 15,
     "channelPosition" : 119,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disney-channel.png",
-    "name" : "Disney Channel"
+    "name" : "Disney Channel",
+	"epgName" : "Disney Channel"
   }, {
     "channelId" : 4513,
     "channelPosition" : 120,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nick-toons.png",
-    "name" : "Nick Toons"
+    "name" : "Nick Toons",
+	"epgName" : "Nick Toons"
   }, {
     "channelId" : 4092,
     "channelPosition" : 121,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nick-jr-.png",
-    "name" : "Nick Jr."
+    "name" : "Nick Jr.",
+	"epgName" : "Nick Jr."
   }, {
     "channelId" : 4014,
     "channelPosition" : 122,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/jim-jam.png",
-    "name" : "Jim Jam"
+    "name" : "Jim Jam",
+	"epgName" : "Jim Jam"
   }, {
     "channelId" : 4075,
     "channelPosition" : 131,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ta3-hd.png",
-    "name" : "TA3 HD"
+    "name" : "TA3 HD",
+	"epgName" : "TA3 HD"
   }, {
     "channelId" : 4566,
     "channelPosition" : 132,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-24-hd.png",
-    "name" : "JOJ 24 HD"
+    "name" : "JOJ 24 HD",
+	"epgName" : "JOJ 24 HD"
   }, {
     "channelId" : 4516,
     "channelPosition" : 133,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/-24-hd.png",
-    "name" : ":24 HD"
+    "name" : ":24 HD",
+	"epgName" : ":24 HD"
   }, {
     "channelId" : 4074,
     "channelPosition" : 134,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct24-hd.png",
-    "name" : "ČT24 HD"
+    "name" : "ČT24 HD",
+	"epgName" : "CT24 HD"
   }, {
     "channelId" : 4523,
     "channelPosition" : 135,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cnn-prima-news-hd.png",
-    "name" : "CNN Prima News HD"
+    "name" : "CNN Prima News HD",
+	"epgName" : "CNN Prima News HD"
   }, {
     "channelId" : 4292,
     "channelPosition" : 136,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cnn-intl--europe.png",
-    "name" : "CNN Intl. Europe"
+    "name" : "CNN Intl. Europe",
+	"epgName" : "CNN Intl. Europe"
   }, {
     "channelId" : 4332,
     "channelPosition" : 151,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/folklorika-tv-hd.png",
-    "name" : "Folklorika TV HD"
+    "name" : "Folklorika TV HD",
+	"epgName" : "Folklorika TV HD"
   }, {
     "channelId" : 4574,
     "channelPosition" : 152,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/slager-original-hd.png",
-    "name" : "Šláger Originál HD"
+    "name" : "Šláger Originál HD",
+	"epgName" : "Slager Original HD"
   }, {
     "channelId" : 4499,
     "channelPosition" : 153,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ocko-hd.png",
-    "name" : "Óčko HD"
+    "name" : "Óčko HD",
+	"epgName" : "Ocko HD"
   }, {
     "channelId" : 4308,
     "channelPosition" : 154,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-80s.png",
-    "name" : "MTV 80s"
-  }, {
-    "channelId" : 4261,
-    "channelPosition" : 155,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-hits.png",
-    "name" : "MTV Hits"
-  }, {
-    "channelId" : 4262,
-    "channelPosition" : 156,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/club-mtv.png",
-    "name" : "Club MTV"
+    "name" : "MTV 80s",
+	"epgName" : "MTV 80s HD"
   }, {
     "channelId" : 4263,
-    "channelPosition" : 157,
+    "channelPosition" : 155,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-90s.png",
-    "name" : "MTV 90s"
+    "name" : "MTV 90s",
+	"epgName" : "MTV 90s"
   }, {
     "channelId" : 23,
-    "channelPosition" : 158,
+    "channelPosition" : 156,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-00s.png",
-    "name" : "MTV 00s"
+    "name" : "MTV 00s",
+	"epgName" : "MTV 00s"
+  }, {
+    "channelId" : 4261,
+    "channelPosition" : 157,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/mtv-hits.png",
+    "name" : "MTV Hits",
+	"epgName" : "MTV Hits"
+  }, {
+    "channelId" : 4262,
+    "channelPosition" : 158,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/club-mtv.png",
+    "name" : "MTV Club",
+	"epgName" : "Club MTV"
   }, {
     "channelId" : 4165,
     "channelPosition" : 159,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/senzi.png",
-    "name" : "Senzi"
+    "name" : "Senzi",
+	"epgName" : "Senzi"
   }, {
     "channelId" : 118,
     "channelPosition" : 171,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/travel-channel-hd.png",
-    "name" : "Travel Channel HD"
+    "name" : "Travel Channel HD",
+	"epgName" : "Travel Channel HD"
   }, {
     "channelId" : 4578,
     "channelPosition" : 172,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/food-network-hd.png",
-    "name" : "Food Network HD"
+    "name" : "Food Network HD",
+	"epgName" : "Food Network HD"
   }, {
     "channelId" : 4572,
     "channelPosition" : 173,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tlc-hd.png",
-    "name" : "TLC HD"
-  }, {
-    "channelId" : 45,
-    "channelPosition" : 174,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fashion-tv.png",
-    "name" : "Fashion TV"
-  }, {
-    "channelId" : 4026,
-    "channelPosition" : 175,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-home.png",
-    "name" : "Spektrum Home"
-  }, {
-    "channelId" : 4042,
-    "channelPosition" : 176,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fishing-and-hunting.png",
-    "name" : "Fishing and Hunting"
-  }, {
-    "channelId" : 4008,
-    "channelPosition" : 177,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/lux-tv-hd.png",
-    "name" : "Lux TV HD"
+    "name" : "TLC HD",
+	"epgName" : "TLC HD"
   }, {
     "channelId" : 4514,
-    "channelPosition" : 178,
+    "channelPosition" : 174,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/strike-tv-hd.png",
-    "name" : "STRIKE TV HD"
+    "name" : "STRIKE TV HD",
+	"epgName" : "Strike TV HD"
+  }, {
+    "channelId" : 45,
+    "channelPosition" : 175,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fashion-tv.png",
+    "name" : "Fashion TV",
+	"epgName" : "Fashion TV"
+  }, {
+    "channelId" : 4026,
+    "channelPosition" : 176,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-home.png",
+    "name" : "Spektrum Home",
+	"epgName" : "Spektrum Home"
+  }, {
+    "channelId" : 4042,
+    "channelPosition" : 177,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fishing-and-hunting.png",
+    "name" : "Fishing and Hunting",
+	"epgName" : "Fishing and Hunting"
+  }, {
+    "channelId" : 4008,
+    "channelPosition" : 178,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/lux-tv-hd.png",
+    "name" : "Lux TV HD",
+	"epgName" : "Lux TV HD"
   }, {
     "channelId" : 4268,
     "channelPosition" : 191,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png",
-    "name" : "Eroxxx HD"
+    "name" : "Eroxxx HD",
+	"epgName" : "Eroxxx HD"
   }, {
     "channelId" : 6021,
     "channelPosition" : 192,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dorcel-tv-hd.png",
-    "name" : "Dorcel TV HD"
+    "name" : "Dorcel TV HD",
+	"epgName" : "Dorcel TV HD"
   }, {
     "channelId" : 4218,
     "channelPosition" : 193,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dusk-tv.png",
-    "name" : "Dusk TV"
+    "name" : "Dusk TV",
+	"epgName" : "Dusk TV"
   }, {
     "channelId" : 4232,
     "channelPosition" : 194,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/xmo.png",
-    "name" : "XMO"
+    "name" : "XMO",
+	"epgName" : "XMO"
   } ]
 }
