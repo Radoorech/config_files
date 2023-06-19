@@ -4,50 +4,44 @@
     "channelId" : 1,
     "channelPosition" : 1,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
-    "name" : "ČT1xxx HD"
+    "name" : "ČT1 HD"
   }, {
     "channelId" : 2,
     "channelPosition" : 2,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct2-hd.png",
-    "name" : "ČT2xxx HD"
+    "name" : "ČT2 HD"
   }, {
-    "channelId" : 4044,
+    "channelId" : 3,
     "channelPosition" : 3,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-hd.png",
-    "name" : "ČT24xxxx HD",
-    "epgName" : "Markiza HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct24-hd.png",
+    "name" : "ČT24 HD"
   }, {
-    "channelId" : 4070,
+    "channelId" : 4,
     "channelPosition" : 4,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-hd.png",
-    "name" : "JOJ HD",
-    "epgName" : "JOJ HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-hd.png",
+    "name" : "Nova HD"
   }, {
-    "channelId" : 4222,
+    "channelId" : 5,
     "channelPosition" : 5,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/plus-hd.png",
-    "name" : "JOJ Plus HD",
-    "epgName" : "Plus HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-hd.png",
+    "name" : "Prima HD"
   }, {
-    "channelId" : 4111,
+    "channelId" : 6,
     "channelPosition" : 6,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dajto-hd.png",
-    "name" : "DAJTO HD",
-    "epgName" : "DAJTO HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-cinema-hd.png",
+    "name" : "Nova Cinema HD"
   }, {
-    "channelId" : 4557,
+    "channelId" : 7,
     "channelPosition" : 7,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-krimi-hd.png",
-    "name" : "Markíza KRIMI HD",
-    "epgName" : "Markiza Krimi HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png",
+    "name" : "Nova Sport 1 HD"
   }, {
-    "channelId" : 4221,
+    "channelId" : 8,
     "channelPosition" : 8,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/doma-hd.png",
-    "name" : "Doma HD",
-    "epgName" : "Doma HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ocko.png",
+    "name" : "Óčko"
   }, {
-    "channelId" : 4223,
+    "channelId" : 9,
     "channelPosition" : 9,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/wau-hd.png",
     "name" : "Wau HD",
