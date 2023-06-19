@@ -4,17 +4,17 @@
     "channelId" : 1,
     "channelPosition" : 1,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
-    "name" : "ČT1 HD"
+    "name" : "ČT1xxx HD"
   }, {
     "channelId" : 2,
     "channelPosition" : 2,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct2-hd.png",
-    "name" : "ČT2 HD"
+    "name" : "ČT2xxx HD"
   }, {
     "channelId" : 4044,
     "channelPosition" : 3,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/markiza-hd.png",
-    "name" : "Markíza HD",
+    "name" : "ČT24xxxx HD",
     "epgName" : "Markiza HD"
   }, {
     "channelId" : 4070,
