@@ -273,9 +273,9 @@
   }, {
     "channelId" : 4581,
     "channelPosition" : 76,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-spark.png",
-    "name" : "TV Spark",
-    "epgName" : "TV Spark"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-spark-hd.png",
+    "name" : "TV Spark HD",
+    "epgName" : "TV Spark HD"
   }, {
     "channelId" : 4178,
     "channelPosition" : 77,
