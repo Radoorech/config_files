@@ -193,11 +193,11 @@
     "name" : "BBC Earth HD",
     "epgName" : "BBC Earth HD"
   }, {
-    "channelId" : 4470,
+    "channelId" : 4584,
     "channelPosition" : 62,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-zoom-hd.png",
-    "name" : "Prima ZOOM HD",
-    "epgName" : "Prima Zoom HD"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/joj-svet-hd.png",
+    "name" : "JOJ Svet HD",
+    "epgName" : "JOJ Svet HD"
   }, {
     "channelId" : 35,
     "channelPosition" : 63,
@@ -272,13 +272,13 @@
     "epgName" : "Animal Planet HD"
   }, {
     "channelId" : 4581,
-    "channelPosition" : 76,
+    "channelPosition" : 75,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/tv-spark-hd.png",
     "name" : "TV Spark HD",
     "epgName" : "TV Spark HD"
   }, {
     "channelId" : 4178,
-    "channelPosition" : 77,
+    "channelPosition" : 76,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png",
     "name" : "Crime and Investigation",
     "epgName" : "Crime and Inv."
