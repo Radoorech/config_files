@@ -101,9 +101,6 @@
     }, {
       "channelId" : 4565,
       "name" : "CANAL+ Action HD"
-    }, {
-      "channelId" : 4278,
-      "name" : "Prima MAX HD"
     } ]
   }, {
     "id" : 4,
@@ -154,8 +151,8 @@
       "channelId" : 4178,
       "name" : "Crime and Investigation"
     }, {
-      "channelId" : 4470,
-      "name" : "Prima ZOOM HD"
+      "channelId" : 4584,
+      "name" : "JOJ Svet HD"
     } ]
   }, {
     "id" : 5,
