@@ -291,6 +291,23 @@
     },
     {
       "channel": {
+        "channelKey": "canalaction",
+        "name": "Canal+ Action",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/canalaction_2309.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/canalaction_2309.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/canalaction_2309.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
         "channelKey": "HBO HD",
         "name": "HBO HD",
         "images": {
@@ -1118,6 +1135,23 @@
           },
           "blackWhite": {
             "url": "/assets/images/tv-logos/win/nova-sport-4.png"
+          }
+        }
+      }
+    },
+    {
+      "channel": {
+        "channelKey": "canalsport",
+        "name": "Canal+ Sport",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/canalsport_2309.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/canalsport_2309.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/canalsport_2309.png"
           }
         }
       }
