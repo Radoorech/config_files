@@ -169,11 +169,11 @@
     "name" : "Film Europe HD",
     "epgName" : "Film Europe HD"
   }, {
-    "channelId" : 29,
+    "channelId" : 4583,
     "channelPosition" : 51,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror.png",
-    "name" : "CS Film-CS Horror",
-    "epgName" : "CS Film-CS Horror"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror-hd.png",
+    "name" : "CS Film-CS Horror HD",
+    "epgName" : "CS Film-CS Horror HD"
   }, {
     "channelId" : 4096,
     "channelPosition" : 52,
