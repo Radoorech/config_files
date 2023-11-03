@@ -643,10 +643,10 @@
     "name" : "Dusk TV",
     "epgName" : "Dusk TV"
   }, {
-    "channelId" : 4232,
+    "channelId" : 4585,
     "channelPosition" : 194,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/xmo.png",
-    "name" : "XMO",
-    "epgName" : "XMO"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/men-tv.png",
+    "name" : "Men TV",
+    "epgName" : "MEN.TV"
   } ]
 }
