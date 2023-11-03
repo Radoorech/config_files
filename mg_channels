@@ -625,6 +625,12 @@
     "name" : "Lux TV HD",
     "epgName" : "Lux TV HD"
   }, {
+    "channelId" : 4027,
+    "channelPosition" : 179,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png",
+    "name" : "DVTV Extra HD",
+    "epgName" : "DVTV EXTRA HD"
+  }, {
     "channelId" : 4268,
     "channelPosition" : 191,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png",
