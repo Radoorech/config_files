@@ -347,6 +347,9 @@
     }, {
       "channelId" : 118,
       "name" : "Travel Channel HD"
+    }, {
+      "channelId" : 4586,
+      "name" : "DVTV Extra HD"
     } ]
   }, {
     "id" : 10,
@@ -358,8 +361,8 @@
       "channelId" : 6021,
       "name" : "Dorcel TV HD"
     }, {
-      "channelId" : 4232,
-      "name" : "XMO"
+      "channelId" : 4585,
+      "name" : "Men TV"
     }, {
       "channelId" : 4218,
       "name" : "Dusk TV"
