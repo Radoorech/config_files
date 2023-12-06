@@ -213,19 +213,19 @@
       "name" : "CANAL+ Sport HD"
     }, {
       "channelId" : 4560,
-      "name" : "CANAL+ Sport 2 HD"
-    }, {
-      "channelId" : 4561,
-      "name" : "CANAL+ Sport 3 HD"
-    }, {
-      "channelId" : 4562,
       "name" : "CANAL+ Sport 4 HD"
     }, {
-      "channelId" : 4563,
+      "channelId" : 4561,
       "name" : "CANAL+ Sport 5 HD"
     }, {
-      "channelId" : 4564,
+      "channelId" : 4562,
       "name" : "CANAL+ Sport 6 HD"
+    }, {
+      "channelId" : 4563,
+      "name" : "CANAL+ Sport 7 HD"
+    }, {
+      "channelId" : 4564,
+      "name" : "CANAL+ Sport 8 HD"
     } ]
   }, {
     "id" : 6,
