@@ -1,7 +1,13 @@
 {
   "jednotka": {
-    "channel": "637",
+    "channel": "Jednotka HD",
     "check": "jednotka",
-    "id": "4099"
+    "id": "1"
   }    
-}
+},
+{
+  "dvojka": {
+    "channel": "Dvojka HD",
+    "check": "jednotka",
+    "id": "2"
+  }
