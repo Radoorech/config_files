@@ -1056,6 +1056,38 @@
     },
     {
       "channel": {
+        "channelKey": "O2 Tenis HD",
+        "name": "Premier Sport 3 HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/ps3.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/ps3.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/ps3.png"
+          }
+        }
+      },
+    {
+      "channel": {
+        "channelKey": "PremierSport4HD1",
+        "name": "Premier Sport 4 HD",
+        "images": {
+          "color": {
+            "url": "/assets/images/tv-logos/negative/premier-sport-4.png"
+          },
+          "color_115": {
+            "url": "/assets/images/tv-logos/negative_115/premier-sport-4.png"
+          },
+          "blackWhite": {
+            "url": "/assets/images/tv-logos/win/premier-sport-4.png"
+          }
+        }
+      },
+    {
+      "channel": {
         "channelKey": "ČT sport HD",
         "name": "ČT Sport HD",
         "images": {
