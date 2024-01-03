@@ -1069,7 +1069,8 @@
             "url": "/assets/images/tv-logos/win/ps3.png"
           }
         }
-      },
+      }
+    },
     {
       "channel": {
         "channelKey": "PremierSport4HD1",
@@ -1085,7 +1086,8 @@
             "url": "/assets/images/tv-logos/win/premier-sport-4.png"
           }
         }
-      },
+      }
+    },
     {
       "channel": {
         "channelKey": "ČT sport HD",
