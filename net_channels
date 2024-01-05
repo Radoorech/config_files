@@ -2,16 +2,16 @@
   "success" : true,
   "items" : [ {
     "epgId" : 130,
-	"channelPosition" : 1,
+    "channelPosition" : 1,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/637.png",
     "name" : "Jednotka HD",
-	"epgName" : "Jednotka HD"
+    "epgName" : "Jednotka HD"
   }, {
     "epgId" : 131,
     "channelPosition" : 2,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/613.png",
     "name" : "Dvojka HD",
-	"epgName" : "Dvojka HD"
+    "epgName" : "Dvojka HD"
   }, {
     "epgId" : 129,
 	"channelPosition" : 3,
