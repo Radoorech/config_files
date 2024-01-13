@@ -14,76 +14,76 @@
     "epgName" : "Dvojka HD"
   }, {
     "epgId" : 129,
-	"channelPosition" : 3,
+    "channelPosition" : 3,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/677.png",
     "name" : "Markíza HD",
-	"epgName" : "Markiza HD"
+    "epgName" : "Markiza HD"
   }, {
     "epgId" : 149,
     "channelPosition" : 4,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/631.png",
     "name" : "JOJ HD",
-	"epgName" : "JOJ HD"
+    "epgName" : "JOJ HD"
   }, {
     "epgId" : 167,
-	"channelPosition" : 5,
+    "channelPosition" : 5,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/619.png",
     "name" : "JOJ Plus HD",
-	"epgName" : "Plus HD"
+    "epgName" : "Plus HD"
   }, {
     "epgId" : 261,
     "channelPosition" : 6,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/707.png",
     "name" : "DAJTO HD",
-	"epgName" : "DAJTO HD"
+    "epgName" : "DAJTO HD"
   }, {
     "epgId" : 1708,
     "channelPosition" : 7,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/2295.png",
     "name" : "Markíza Krimi HD",
-	"epgName" : "Markiza Krimi HD"
+    "epgName" : "Markiza Krimi HD"
   }, {
     "epgId" : 174,
     "channelPosition" : 8,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/623.png",
     "name" : "Doma HD",
-	"epgName" : "Doma HD"
+    "epgName" : "Doma HD"
   }, {
     "epgId" : 390,
     "channelPosition" : 9,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/609.png",
     "name" : "Wau HD",
-	"epgName" : "Wau HD"
+    "epgName" : "Wau HD"
   }, {
     "epgId" : 503,
     "channelPosition" : 10,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/789.png",
     "name" : "Prima Plus HD",
-	"epgName" : "Prima Plus HD"
+    "epgName" : "Prima Plus HD"
   }, {
     "epgId" : 406,
     "channelPosition" : 11,
     "logoUrl" : "https://epg.as.4net.tv/files/channel_logos/406.png",
     "name" : "Nova International HD",
-	"epgName" : "Nova Intl. HD"
+    "epgName" : "Nova Intl. HD"
   }, {
     "epgId" : 4240,
     "channelPosition" : 21,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
     "name" : "ČT1 HD",
-	"epgName" : "CT1 HD"
+    "epgName" : "CT1 HD"
   }, {
     "epgId" : 4239,
     "channelPosition" : 22,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct2-hd.png",
     "name" : "ČT2 HD",
-	"epgName" : "CT2 HD"
+    "epgName" : "CT2 HD"
   }, {
     "epgId" : 4102,
     "channelPosition" : 23,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-cool-hd.png",
     "name" : "Prima COOL HD",
-	"epgName" : "Prima Cool HD"
+    "epgName" : "Prima Cool HD"
   }, {
     "epgId" : 4331,
     "channelPosition" : 24,
