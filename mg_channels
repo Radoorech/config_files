@@ -319,98 +319,104 @@
     "name" : "Nova Sport 3 HD",
     "epgName" : "Nova Sport 3 HD"
   }, {
-    "channelId" : 4537,
+    "channelId" : 4588,
     "channelPosition" : 88,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/premier-sport-3-hd.png",
+    "name" : "PREMIER SPORT 3 HD",
+    "epgName" : "PREMIER SPORT 3 HD"
+  }, {
+    "channelId" : 4537,
+    "channelPosition" : 89,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png",
     "name" : "Nova Sport 4 HD",
     "epgName" : "Nova Sport 4 HD"
   }, {
     "channelId" : 4011,
-    "channelPosition" : 89,
+    "channelPosition" : 90,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png",
     "name" : "Eurosport 1 HD",
     "epgName" : "Eurosport 1 HD"
   }, {
     "channelId" : 4142,
-    "channelPosition" : 90,
+    "channelPosition" : 91,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png",
     "name" : "Eurosport 2 HD",
     "epgName" : "Eurosport 2 HD"
   }, {
     "channelId" : 4144,
-    "channelPosition" : 91,
+    "channelPosition" : 92,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png",
     "name" : "Nova Sport 1 HD",
     "epgName" : "Nova Sport 1 HD"
   }, {
     "channelId" : 4298,
-    "channelPosition" : 92,
+    "channelPosition" : 93,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png",
     "name" : "Nova Sport 2 HD",
     "epgName" : "Nova Sport 2 HD"
   }, {
     "channelId" : 4230,
-    "channelPosition" : 93,
+    "channelPosition" : 94,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport1-hd.png",
     "name" : "Sport1 HD",
     "epgName" : "Sport1 HD"
   }, {
     "channelId" : 4143,
-    "channelPosition" : 94,
+    "channelPosition" : 95,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/sport2-hd.png",
     "name" : "Sport2 HD",
     "epgName" : "Sport2 HD"
   }, {
     "channelId" : 4517,
-    "channelPosition" : 95,
+    "channelPosition" : 96,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/arena-sport-1-hd.png",
     "name" : "Arena Sport 1 HD",
     "epgName" : "Arena Sport 1 HD"
   }, {
     "channelId" : 4106,
-    "channelPosition" : 96,
+    "channelPosition" : 98,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/golf-channel-hd.png",
     "name" : "Golf Channel HD",
     "epgName" : "Golf Channel HD"
   }, {
     "channelId" : 4504,
-    "channelPosition" : 97,
+    "channelPosition" : 99,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/auto-motor-sport-hd.png",
     "name" : "Auto Motor Sport HD",
     "epgName" : "Auto Motor Sport HD"
   }, {
     "channelId" : 4122,
-    "channelPosition" : 98,
+    "channelPosition" : 100,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/fightbox-hd.png",
     "name" : "Fightbox HD",
     "epgName" : "Fightbox HD"
   }, {
     "channelId" : 4560,
-    "channelPosition" : 99,
+    "channelPosition" : 101,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-4-hd.png",
     "name" : "CANAL+ Sport 4 HD",
     "epgName" : "CANAL+ Sport 4 HD"
   }, {
     "channelId" : 4561,
-    "channelPosition" : 100,
+    "channelPosition" : 102,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-5-hd.png",
     "name" : "CANAL+ Sport 5 HD",
     "epgName" : "CANAL+ Sport 5 HD"
   }, {
     "channelId" : 4562,
-    "channelPosition" : 101,
+    "channelPosition" : 103,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-6-hd.png",
     "name" : "CANAL+ Sport 6 HD",
     "epgName" : "CANAL+ Sport 6 HD"
   }, {
     "channelId" : 4563,
-    "channelPosition" : 102,
+    "channelPosition" : 104,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-7-hd.png",
     "name" : "CANAL+ Sport 7 HD",
     "epgName" : "CANAL+ Sport 7 HD"
   }, {
     "channelId" : 4564,
-    "channelPosition" : 103,
+    "channelPosition" : 105,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-8-hd.png",
     "name" : "CANAL+ Sport 8 HD",
     "epgName" : "CANAL+ Sport 8 HD"
