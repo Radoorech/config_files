@@ -136,12 +136,6 @@
       "channelId" : 4264,
       "name" : "National Geographic Wild HD"
     }, {
-      "channelId" : 4571,
-      "name" : "Discovery Turbo Xtra HD"
-    }, {
-      "channelId" : 4152,
-      "name" : "Discovery Science HD"
-    }, {
       "channelId" : 4003,
       "name" : "History HD"
     }, {
@@ -199,6 +193,9 @@
     }, {
       "channelId" : 4533,
       "name" : "PREMIER SPORT 2 HD"
+    }, {
+      "channelId" : 4588,
+      "name" : "PREMIER SPORT 3 HD"
     }, {
       "channelId" : 4535,
       "name" : "Nova Sport 3 HD"
