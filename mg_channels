@@ -223,18 +223,6 @@
     "name" : "Discovery Channel HD",
     "epgName" : "Discovery Channel HD"
   }, {
-    "channelId" : 4152,
-    "channelPosition" : 68,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/discovery-science-hd.png",
-    "name" : "Discovery Science HD",
-    "epgName" : "Discovery Science HD"
-  }, {
-    "channelId" : 4571,
-    "channelPosition" : 69,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/disc--turbo-xtra-hd.png",
-    "name" : "Discovery Turbo Xtra HD",
-    "epgName" : "Disc. Turbo Xtra HD"
-  }, {
     "channelId" : 4226,
     "channelPosition" : 70,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/id-hd.png",
