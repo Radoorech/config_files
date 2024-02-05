@@ -607,11 +607,11 @@
     "name" : "Fashion TV",
     "epgName" : "Fashion TV"
   }, {
-    "channelId" : 4026,
+    "channelId" : 4587,
     "channelPosition" : 176,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-home.png",
-    "name" : "Spektrum Home",
-    "epgName" : "Spektrum Home"
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/spektrum-home-hd.png",
+    "name" : "Spektrum Home HD",
+    "epgName" : "Spektrum Home HD"
   }, {
     "channelId" : 4042,
     "channelPosition" : 177,
