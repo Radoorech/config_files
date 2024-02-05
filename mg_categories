@@ -147,9 +147,6 @@
     }, {
       "channelId" : 4584,
       "name" : "JOJ Svet HD"
-    }, {
-      "channelId" : 4589,
-      "name" : "Love Nature 4K"
     } ]
   }, {
     "id" : 5,
@@ -336,8 +333,8 @@
       "channelId" : 45,
       "name" : "Fashion TV"
     }, {
-      "channelId" : 4026,
-      "name" : "Spektrum Home"
+      "channelId" : 4587,
+      "name" : "Spektrum Home HD"
     }, {
       "channelId" : 4042,
       "name" : "Fishing and Hunting"
