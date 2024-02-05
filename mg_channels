@@ -265,12 +265,6 @@
     "name" : "Crime and Investigation",
     "epgName" : "Crime and Inv."
   }, {
-    "channelId" : 4589,
-    "channelPosition" : 77,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/love-nature-4k.png",
-    "name" : "Love Nature 4K",
-    "epgName" : "Love Nature 4K"
-  }, {
     "channelId" : 4532,
     "channelPosition" : 81,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/rtvs-sport-hd.png",
