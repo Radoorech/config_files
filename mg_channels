@@ -265,6 +265,12 @@
     "name" : "Crime and Investigation",
     "epgName" : "Crime and Inv."
   }, {
+    "channelId" : 4589,
+    "channelPosition" : 77,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/love-nature-4k.png",
+    "name" : "Love Nature 4K",
+    "epgName" : "Love Nature 4K"
+  }, {
     "channelId" : 4532,
     "channelPosition" : 81,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/rtvs-sport-hd.png",
@@ -360,6 +366,12 @@
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/arena-sport-1-hd.png",
     "name" : "Arena Sport 1 HD",
     "epgName" : "Arena Sport 1 HD"
+  }, {
+    "channelId" : 4591,
+    "channelPosition" : 97,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/arena-sport-2-hd.png",
+    "name" : "Arena Sport 2 HD",
+    "epgName" : "Arena Sport 2 HD"
   }, {
     "channelId" : 4106,
     "channelPosition" : 98,
