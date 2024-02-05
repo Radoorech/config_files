@@ -147,6 +147,9 @@
     }, {
       "channelId" : 4584,
       "name" : "JOJ Svet HD"
+    }, {
+      "channelId" : 4589,
+      "name" : "Love Nature 4K"
     } ]
   }, {
     "id" : 5,
@@ -184,6 +187,9 @@
     }, {
       "channelId" : 4517,
       "name" : "Arena Sport 1 HD"
+    }, {
+      "channelId" : 4591,
+      "name" : "Arena Sport 2 HD"
     }, {
       "channelId" : 4122,
       "name" : "Fightbox HD"
