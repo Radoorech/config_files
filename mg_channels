@@ -283,12 +283,6 @@
     "name" : "JOJ Šport HD",
     "epgName" : "JOJ Sport HD"
   }, {
-    "channelId" : 4464,
-    "channelPosition" : 83,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct-sport-hd.png",
-    "name" : "ČT Sport HD",
-    "epgName" : "CT Sport HD"
-  }, {
     "channelId" : 4559,
     "channelPosition" : 84,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/canal--sport-hd.png",
