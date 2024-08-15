@@ -29,13 +29,16 @@
       "name" : "Wau HD"
     }, {
       "channelId" : 4305,
-      "name" : "Prima Plus HD"
+      "name" : "Prima SK HD"
     }, {
       "channelId" : 4309,
       "name" : "Nova International HD"
     }, {
       "channelId" : 4557,
-      "name" : "Markíza KRIMI HD"
+      "name" : "Markíza Krimi HD"
+    }, {
+      "channelId" : 4602,
+      "name" : "Markíza Krimi HD"
     } ]
   }, {
     "id" : 2,
@@ -47,9 +50,6 @@
       "channelId" : 4239,
       "name" : "ČT2 HD"
     }, {
-      "channelId" : 4102,
-      "name" : "Prima COOL HD"
-    }, {
       "channelId" : 4101,
       "name" : "Prima LOVE HD"
     }, {
@@ -60,7 +60,7 @@
       "name" : "Televize Seznam HD"
     }, {
       "channelId" : 4570,
-      "name" : "Kino Barrandov HD"
+      "name" : "Barrandov Kino HD"
     } ]
   }, {
     "id" : 3,
@@ -195,7 +195,7 @@
       "name" : "Fightbox HD"
     }, {
       "channelId" : 4532,
-      "name" : "RTVS ŠPORT HD"
+      "name" : ":ŠPORT HD"
     }, {
       "channelId" : 4533,
       "name" : "PREMIER SPORT 2 HD"
@@ -208,6 +208,12 @@
     }, {
       "channelId" : 4537,
       "name" : "Nova Sport 4 HD"
+    }, {
+      "channelId" : 4598,
+      "name" : "Nova Sport 5 HD"
+    }, {
+      "channelId" : 4599,
+      "name" : "Nova Sport 6 HD"
     }, {
       "channelId" : 4556,
       "name" : "JOJ Šport HD"
@@ -369,6 +375,13 @@
     }, {
       "channelId" : 4218,
       "name" : "Dusk TV"
+    } ]
+  }, {
+    "id" : 11,
+    "name" : "VOD",
+    "channels" : [ {
+      "channelId" : 222014,
+      "name" : "MAGIO FILM"
     } ]
   } ]
 }
