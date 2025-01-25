@@ -85,12 +85,6 @@
     "name" : "Nova International HD",
     "epgName" : "Nova Intl. HD"
   }, {
-    "channelId" : 4619,
-    "channelPosition" : 15,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png",
-    "name" : "DVTV Extra HD",
-    "epgName" : "DVTV EXTRA HD"
-  }, {
     "channelId" : 4240,
     "channelPosition" : 21,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/ct1-hd.png",
@@ -649,7 +643,7 @@
     "name" : "Lux TV HD",
     "epgName" : "Lux TV HD"
   }, {
-    "channelId" : 4586,
+    "channelId" : 4619,
     "channelPosition" : 179,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png",
     "name" : "DVTV Extra HD",
