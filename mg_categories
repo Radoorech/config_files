@@ -31,8 +31,17 @@
       "channelId" : 4305,
       "name" : "Prima SK HD"
     }, {
+      "channelId" : 4600,
+      "name" : "Prima COOL SK HD"
+    }, {
+      "channelId" : 4615,
+      "name" : "Prima LOVE SK HD"
+    }, {
       "channelId" : 4309,
       "name" : "Nova International HD"
+    }, {
+      "channelId" : 4619,
+      "name" : "DVTV EXTRA HD"
     }, {
       "channelId" : 4557,
       "name" : "Markíza Krimi HD"
@@ -49,9 +58,6 @@
     }, {
       "channelId" : 4239,
       "name" : "ČT2 HD"
-    }, {
-      "channelId" : 4101,
-      "name" : "Prima LOVE HD"
     }, {
       "channelId" : 4331,
       "name" : "Prima KRIMI HD"
