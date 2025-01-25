@@ -67,11 +67,29 @@
     "name" : "Prima SK HD",
     "epgName" : "Prima SK HD"
   }, {
-    "channelId" : 4309,
+    "channelId" : 4600,
     "channelPosition" : 12,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-cool-sk-hd.png",
+    "name" : "Prima COOL SK HD",
+    "epgName" : "Prima COOL SK HD"
+  }, {
+    "channelId" : 4615,
+    "channelPosition" : 13,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-love-sk-hd.png",
+    "name" : "Prima LOVE SK HD",
+    "epgName" : "Prima LOVE SK HD"
+  }, {
+    "channelId" : 4309,
+    "channelPosition" : 14,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-intl--hd.png",
     "name" : "Nova International HD",
     "epgName" : "Nova Intl. HD"
+  }, {
+    "channelId" : 4619,
+    "channelPosition" : 15,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png",
+    "name" : "DVTV Extra HD",
+    "epgName" : "DVTV EXTRA HD"
   }, {
     "channelId" : 4240,
     "channelPosition" : 21,
@@ -90,12 +108,6 @@
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-krimi-hd.png",
     "name" : "Prima KRIMI HD",
     "epgName" : "Prima Krimi HD"
-  }, {
-    "channelId" : 4101,
-    "channelPosition" : 24,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/prima-love-hd.png",
-    "name" : "Prima LOVE HD",
-    "epgName" : "Prima Love HD"
   }, {
     "channelId" : 4458,
     "channelPosition" : 25,
@@ -289,41 +301,41 @@
     "name" : "CANAL+ Sport HD",
     "epgName" : "CANAL+ Sport HD"
   }, {
-    "channelId" : 4535,
-    "channelPosition" : 84,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png",
-    "name" : "Nova Sport 3 HD",
-    "epgName" : "Nova Sport 3 HD"
-  }, {
-    "channelId" : 4537,
-    "channelPosition" : 85,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png",
-    "name" : "Nova Sport 4 HD",
-    "epgName" : "Nova Sport 4 HD"
-  }, {
-    "channelId" : 4598,
-    "channelPosition" : 86,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-5-hd.png",
-    "name" : "Nova Sport 5 HD",
-    "epgName" : "Nova Sport 5 HD"
-  }, {
-    "channelId" : 4599,
-    "channelPosition" : 87,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-6-hd.png",
-    "name" : "Nova Sport 6 HD",
-    "epgName" : "Nova Sport 6 HD"
-  }, {
     "channelId" : 4144,
-    "channelPosition" : 88,
+    "channelPosition" : 84,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png",
     "name" : "Nova Sport 1 HD",
     "epgName" : "Nova Sport 1 HD"
   }, {
     "channelId" : 4298,
-    "channelPosition" : 89,
+    "channelPosition" : 85,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png",
     "name" : "Nova Sport 2 HD",
     "epgName" : "Nova Sport 2 HD"
+  }, {
+    "channelId" : 4535,
+    "channelPosition" : 86,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png",
+    "name" : "Nova Sport 3 HD",
+    "epgName" : "Nova Sport 3 HD"
+  }, {
+    "channelId" : 4537,
+    "channelPosition" : 87,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png",
+    "name" : "Nova Sport 4 HD",
+    "epgName" : "Nova Sport 4 HD"
+  }, {
+    "channelId" : 4598,
+    "channelPosition" : 88,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-5-hd.png",
+    "name" : "Nova Sport 5 HD",
+    "epgName" : "Nova Sport 5 HD"
+  }, {
+    "channelId" : 4599,
+    "channelPosition" : 89,
+    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/nova-sport-6-hd.png",
+    "name" : "Nova Sport 6 HD",
+    "epgName" : "Nova Sport 6 HD"
   }, {
     "channelId" : 4230,
     "channelPosition" : 90,
