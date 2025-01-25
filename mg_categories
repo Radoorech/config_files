@@ -40,9 +40,6 @@
       "channelId" : 4309,
       "name" : "Nova International HD"
     }, {
-      "channelId" : 4619,
-      "name" : "DVTV EXTRA HD"
-    }, {
       "channelId" : 4557,
       "name" : "Markíza Krimi HD"
     }, {
@@ -363,7 +360,7 @@
       "channelId" : 118,
       "name" : "Travel Channel HD"
     }, {
-      "channelId" : 4586,
+      "channelId" : 4619,
       "name" : "DVTV Extra HD"
     } ]
   }, {
