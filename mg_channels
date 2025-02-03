@@ -643,12 +643,6 @@
     "name" : "Lux TV HD",
     "epgName" : "Lux TV HD"
   }, {
-    "channelId" : 4619,
-    "channelPosition" : 179,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png",
-    "name" : "DVTV Extra HD",
-    "epgName" : "DVTV EXTRA HD"
-  }, {
     "channelId" : 4268,
     "channelPosition" : 191,
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png",
@@ -672,11 +666,6 @@
     "logoUrl" : "https://files.cdn.magio.tv/tv_logos/men-tv.png",
     "name" : "Men TV",
     "epgName" : "MEN.TV"
-  }, {
-    "channelId" : 222014,
-    "channelPosition" : 201,
-    "logoUrl" : "https://files.cdn.magio.tv/tv_logos/magio-film.png",
-    "name" : "MAGIO FILM",
-    "epgName" : "MAGIO FILM"
+  }
   } ]
 }
